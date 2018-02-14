@@ -8,7 +8,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1518614326045,
+      "updatedAt": 1518615539707,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c65b6113c20240ebcbf72e0a8114e3e",
+        "contentDigest": "273b2a37b247950a50dbceccf07dad8a",
         "owner": "internal-data-bridge"
       }
     },
@@ -919,12 +919,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-14T13:18:43.936Z",
+      "buildTime": "2018-02-14T13:24:17.735Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "91d17ff3bde304a21566ac84b4ca74d8",
+        "contentDigest": "e83f537a6004c8b165ed734226fabce8",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1247,10 +1247,10 @@
       "extension": "js",
       "size": 4719,
       "prettySize": "4.72 kB",
-      "modifiedTime": "2018-02-14T13:02:59.985Z",
-      "accessTime": "2018-02-14T13:01:27.368Z",
-      "changeTime": "2018-02-14T13:02:59.985Z",
-      "birthTime": "2018-02-14T13:02:59.985Z",
+      "modifiedTime": "2018-02-14T13:38:59.593Z",
+      "accessTime": "2018-02-14T13:38:09.240Z",
+      "changeTime": "2018-02-14T13:38:59.593Z",
+      "birthTime": "2018-02-14T13:38:59.593Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
       "base": "index.js",
@@ -1266,14 +1266,14 @@
       "blksize": 4096,
       "ino": 3229294699,
       "blocks": 16,
-      "atimeMs": 1518613287367.9236,
-      "mtimeMs": 1518613379984.7756,
-      "ctimeMs": 1518613379984.7756,
-      "birthtimeMs": 1518613379984.7756,
-      "atime": "2018-02-14T13:01:27.368Z",
-      "mtime": "2018-02-14T13:02:59.985Z",
-      "ctime": "2018-02-14T13:02:59.985Z",
-      "birthtime": "2018-02-14T13:02:59.985Z"
+      "atimeMs": 1518615489240.3804,
+      "mtimeMs": 1518615539592.8577,
+      "ctimeMs": 1518615539592.8577,
+      "birthtimeMs": 1518615539592.8577,
+      "atime": "2018-02-14T13:38:09.240Z",
+      "mtime": "2018-02-14T13:38:59.593Z",
+      "ctime": "2018-02-14T13:38:59.593Z",
+      "birthtime": "2018-02-14T13:38:59.593Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
@@ -2350,7 +2350,7 @@
       "context": {
         "path": "/products"
       },
-      "updatedAt": 1518614326080,
+      "updatedAt": 1518615539736,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2359,7 +2359,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7569100651f2d630d3c747a87ec2f443",
+        "contentDigest": "48d1136212ab32ed5b54e4c2d704ce0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2373,7 +2373,7 @@
       "context": {
         "path": "/about"
       },
-      "updatedAt": 1518614326081,
+      "updatedAt": 1518615539737,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
@@ -2382,7 +2382,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "be3944ee0f029b27070a31c464ed9f1b",
+        "contentDigest": "94dcc876476320bfa466410a887a53b1",
         "owner": "internal-data-bridge"
       }
     },
@@ -2396,7 +2396,7 @@
       "context": {
         "path": "/products/solarheaters"
       },
-      "updatedAt": 1518614326081,
+      "updatedAt": 1518615539737,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2405,7 +2405,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac634b6ee597b7fe4575922e77e998ec",
+        "contentDigest": "31d807565f2f9b8a66620057bc1184ab",
         "owner": "internal-data-bridge"
       }
     },
@@ -2419,7 +2419,7 @@
       "context": {
         "path": "/products/incineratingtoilets"
       },
-      "updatedAt": 1518614326082,
+      "updatedAt": 1518615539738,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2428,7 +2428,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "11da5bbcbf8251a161b56e7ed7084f3a",
+        "contentDigest": "2f0380e64b40d042643164716ab48ae4",
         "owner": "internal-data-bridge"
       }
     },
@@ -2442,7 +2442,7 @@
       "context": {
         "path": "/products/waterlesstoilets"
       },
-      "updatedAt": 1518614326082,
+      "updatedAt": 1518615539738,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2451,7 +2451,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f7a8d34677dd4125895621c1a0f71f1e",
+        "contentDigest": "44c5980293d5446ecd3e1743675ed823",
         "owner": "internal-data-bridge"
       }
     },
@@ -2465,7 +2465,7 @@
       "context": {
         "path": "/brewing-chemex"
       },
-      "updatedAt": 1518614326082,
+      "updatedAt": 1518615539739,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2474,7 +2474,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1d0c05b910d0dce90e20efee473d8de7",
+        "contentDigest": "85aa4183dcd187455e6caeda8b76c72b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2488,7 +2488,7 @@
       "context": {
         "path": "/jamaica-blue"
       },
-      "updatedAt": 1518614326083,
+      "updatedAt": 1518615539740,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2497,7 +2497,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "af63b870fa53bc10f7d977d3573e3184",
+        "contentDigest": "88c0d12fa97f49ac5c9fa80431aac19f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2511,7 +2511,7 @@
       "context": {
         "path": "making-sense"
       },
-      "updatedAt": 1518614326083,
+      "updatedAt": 1518615539740,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2520,7 +2520,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14c34c871d6911d70c233c95b1488cb6",
+        "contentDigest": "8c260101537715abdb844b6b191db38a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2532,7 +2532,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518614326096,
+      "updatedAt": 1518614659754,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2541,7 +2541,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c91ae7ca76cdb10775b0a1b4c050a2d",
+        "contentDigest": "6a663ecd3127cfe4193938e9e58d7155",
         "owner": "internal-data-bridge"
       }
     },
@@ -2553,7 +2553,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1518614326097,
+      "updatedAt": 1518614659755,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
@@ -2562,7 +2562,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1aad2e2a0cd9479c824737039aaf5a8d",
+        "contentDigest": "f06a96489ab2403b8972fea74a4bb891",
         "owner": "internal-data-bridge"
       }
     },
@@ -2574,7 +2574,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518614326098,
+      "updatedAt": 1518614659756,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2583,7 +2583,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "555311e44c528709c32eb6024607cf84",
+        "contentDigest": "cc3317bc2660c34b721282c7663d555f",
         "owner": "internal-data-bridge"
       }
     }
