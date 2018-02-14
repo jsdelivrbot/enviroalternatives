@@ -10,8 +10,8 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>{props.title}</h1>
-                <p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-                for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+                <span className="icon fa-envelope" />{props.email}<br />
+                <span className="icon fa-phone" />{props.phone}
             </div>
         </div>
         <nav>

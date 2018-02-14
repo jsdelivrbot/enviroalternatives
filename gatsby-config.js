@@ -1,6 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: 'EnviroAlternatives',
+    phone: '(206) 324-5055',
+    skype: 'dean.petrich',
+    email: 'petrich@whidbey.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

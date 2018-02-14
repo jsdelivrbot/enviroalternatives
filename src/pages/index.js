@@ -77,13 +77,15 @@ class Template extends React.Component {
   render() {
     const siteTitle = this.props.data.site.siteMetadata.title
     const siteDescription = this.props.data.site.siteMetadata.description
+    const siteEmail = this.props.data.site.siteMetadata.email
+    const sitePhone = this.props.data.site.siteMetadata.phone
 
     return (
       <div className={`body ${this.state.loading} ${this.state.isArticleVisible ? 'is-article-visible' : ''}`}>
 
         <div id="wrapper">
 
-          <Header onOpenArticle={this.handleOpenArticle} title={siteTitle} timeout={this.state.timeout} />
+          <Header onOpenArticle={this.handleOpenArticle} title={siteTitle} email={siteEmail} phone={sitePhone} timeout={this.state.timeout} />
           <Footer timeout={this.state.timeout} />
 
         </div>
@@ -104,6 +106,8 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        email
+        phone
       }
     }
   }
