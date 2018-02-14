@@ -18,12 +18,12 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-    - name: "product"
-      label: "Green Products"
-      folder: "src/pages/product"
-      create: true
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-      fields:
+  - name: "product"
+    label: "Green Products"
+    folder: "src/pages/product"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
         - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
         - {label: "Path", name: "path", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
