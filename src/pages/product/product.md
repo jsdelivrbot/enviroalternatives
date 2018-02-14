@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /products/index
+path: /products
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer

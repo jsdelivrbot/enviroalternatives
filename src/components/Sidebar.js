@@ -1,109 +1,58 @@
-import React, {Component} from 'react';
-import Link from 'gatsby-link';
-
-class Sidebar extends Component {
-
-  handleClick(e) {
-    e.preventDefault();
-    // e.target.parentElement.classList.toggle('open');
-  }
-
-  activeRoute(routeName, props) {
-    // return this.props.location.pathname.indexOf(routeName) > -1 ? 'nav-item nav-dropdown open' : 'nav-item nav-dropdown';
-    return props.location.pathname.indexOf(routeName) > -1 ? 'nav-item nav-dropdown open' : 'nav-item nav-dropdown';
-
-  }
-
-  // todo Sidebar nav secondLevel
-  // secondLevelActive(routeName) {
-  //   return this.props.location.pathname.indexOf(routeName) > -1 ? "nav nav-second-level collapse in" : "nav nav-second-level collapse";
-  // }
+import React from 'react'
+import ReactDOM from 'react-dom'
+import classNames from 'classnames'
+import Link from "gatsby-link"
 
 
-  render() {
 
-    const props = this.props;
-    const activeRoute = this.activeRoute;
-    const handleClick = this.handleClick;
+class Sidebar extends React.Component {
 
-    // badge addon to NavItem
-    // const badge = (badge) => {
-    //   if (badge) {
-    //     const classes = classNames( badge.class );
-    //     return (<Badge className={ classes } color={ badge.variant }>{ badge.text }</Badge>)
-    //   }
-    // };
+    constructor(props) {
+        super(props);
+        this.state = {
+            showMenu: true
+        }
+        this.toggleMenu = this.toggleMenu.bind(this)
+    }
 
-    // simple wrapper for nav-title item
-    // const wrapper = item => { return (!item.wrapper ? item.name : (React.createElement(item.wrapper.element, item.wrapper.attributes, item.name))) };
+    toggleMenu() {
+        this.setState({ showMenu: !this.state.showMenu })
+    }
 
-    // nav list section title
-    // const title =  (title, key) => {
-    //   const classes = classNames( "nav-title", title.class);
-    //   return (<li key={key} className={ classes }>{wrapper(title)} </li>);
-    // };
+    render(props) {
+        const { items, label } = this.props;
+        const showMenu = this.state.showMenu;
+        const sidebarClass = classNames({
+            'sidebar': true,
+            'sidebar-menu-expanded': showMenu,
+            'sidebar-menu-collapsed': !showMenu
+        });
 
-    // nav list divider
-    const divider = (divider, key) => (<li key={key} className="divider"></li>);
+        const elementsClass = classNames({
+            'expanded-element': true,
+            'is-hidden': !showMenu,
+        });
 
-    // nav item with nav link
-    // const navItem = (item, key) => {
-    //   const classes = classNames( "nav-link", item.class);
-    //   return (
-    //     <NavItem key={key}>
-    //       <NavLink to={item.url} className={ classes } activeClassName="active">
-    //         <i className={item.icon}></i>{item.name}{badge(item.badge)}
-    //       </NavLink>
-    //     </NavItem>
-    //   )
-    // };
 
-    // nav dropdown
-    const navDropdown = (item, key) => {
-      return (
-        <li key={key} className={activeRoute(item.url, props)}>
-          <a className="nav-link nav-dropdown-toggle" href="#" onClick={handleClick.bind(this)}><i className={item.icon}></i> {item.name}</a>
-          <ul className="nav-dropdown-items">
-            {navList(item.children)}
-          </ul>
-        </li>)
-    };
 
-    // nav link
-    // const navLink = (item, idx) =>
-    //   item.title ? title(item, idx) :
-    //   item.divider ? divider(item, idx) :
-    //   item.children ? navDropdown(item, idx)
-    //                 : navItem(item, idx) ;
-
-    // nav list
-    // const navList = (items) => {
-    //   return items.map( (item, index) => navLink(item, index) );
-    // };
-
-    // sidebar-nav root
     return (
-      <div className="sidebar">
-        <nav className="sidenav">
-          <Link className="navbar-item" to="/about">
-            About
-          </Link>
-          <Link className="navbar-item" to="/about">
-            About
-          </Link>
-          <Link className="navbar-item" to="/about">
-            About
-          </Link>
-          <Link className="navbar-item" to="/about">
-            About
-          </Link>
-          <Link className="navbar-item" to="/about">
-            About
-          </Link>
-        </nav>
-      </div>
-    )
-  }
+      <nav className={`${sidebarClass} sidebar`}>
+        <ul>
+          <li><h3>{label}</h3></li>
+            {items.map(item => (
+              <li key={item.node.id}>
+              <Link  className="exandable" to={item.node.frontmatter.path} title="test">
+                {item.node.frontmatter.title}
+              </Link>
+              </li>
+            ))}
+
+        </ul>
+      </nav>
+
+        )
+    }
 }
 
-export default Sidebar;
+
+export default Sidebar

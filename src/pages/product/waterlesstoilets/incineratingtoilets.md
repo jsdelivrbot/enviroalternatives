@@ -1,11 +1,13 @@
 ---
 templateKey: 'product-page'
-path: /products/waterlesstoilets
-title: Waterless Toilets
+path: /products/incineratingtoilets
+title: Incinerating Toilets
 image: /img/jumbotron.jpg
-heading: Waterless Toilets
+heading: Incinerating Toilets
 description: >-
-  There many forms of toilets that do not use water. Anaerobic systems, such as out-houses and methane digesters function on non-oxygen-breathing organisms such as leeches, flat worms and anaerobic bacteria, and they emit ammonia, methane, sulfur. Aerobic systems, such as composting toilets, emit primarily carbon dioxide and water. The simplest form of a composting toilet would be a five-gallon bucket containing sawdust; much more sophisticated versions now exist, such as the Phoenix, the CTS, the Clivus Multrum and many more. If the climate is too cold to enable composting to occur, another option is to burn up the waste. Incinerating toilets are practical in remote sites, cold regions, and for large mobile groups of people. A fourth option is dehydration toilet -- an evaporative toilet -- that dries up the waste.
+  There are several models of incinerating toilets. The Incinolet out of Texas is an electric model, which we don't carry.
+  The Storburn and Use'n Burn Toilets were wonderful, well-built units. Unfortunately, Storburn has gone out of business.
+  If you already own a Storburn toilet and you are out of masking foam, here are some alternative sources:
 intro:
   blurbs:
     - image: /img/coffee.png

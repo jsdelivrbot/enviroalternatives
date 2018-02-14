@@ -1,11 +1,14 @@
 ---
 templateKey: 'product-page'
-path: /products/waterlesstoilets
-title: Waterless Toilets
+path: /products/solarheaters
+title: Solar Heaters
 image: /img/jumbotron.jpg
-heading: Waterless Toilets
+heading: Solar Heaters
 description: >-
-  There many forms of toilets that do not use water. Anaerobic systems, such as out-houses and methane digesters function on non-oxygen-breathing organisms such as leeches, flat worms and anaerobic bacteria, and they emit ammonia, methane, sulfur. Aerobic systems, such as composting toilets, emit primarily carbon dioxide and water. The simplest form of a composting toilet would be a five-gallon bucket containing sawdust; much more sophisticated versions now exist, such as the Phoenix, the CTS, the Clivus Multrum and many more. If the climate is too cold to enable composting to occur, another option is to burn up the waste. Incinerating toilets are practical in remote sites, cold regions, and for large mobile groups of people. A fourth option is dehydration toilet -- an evaporative toilet -- that dries up the waste.
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
