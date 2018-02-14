@@ -1,7 +1,7 @@
 import React from 'react'
 import '../assets/scss/main.scss'
-import Helmet from 'react-helmet'
 import PropTypes from 'prop-types';
+
 
 import Header from '../components/Header'
 import Footer from '../components/Footer'
@@ -80,10 +80,6 @@ class Template extends React.Component {
 
     return (
       <div className={`body ${this.state.loading} ${this.state.isArticleVisible ? 'is-article-visible' : ''}`}>
-        <Helmet>
-            <title>{siteTitle}</title>
-            <meta name="description" content={siteDescription} />
-        </Helmet>
 
         <div id="wrapper">
 

@@ -8,7 +8,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1518611392538,
+      "updatedAt": 1518613386814,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1ec25814e2021a8982bb11ade35dd6d2",
+        "contentDigest": "3abd6b377186f47084f0f9aa14d3461b",
         "owner": "internal-data-bridge"
       }
     },
@@ -891,10 +891,6 @@
           {
             "name": "react-load-script",
             "version": "0.0.6"
-          },
-          {
-            "name": "react-sidebar",
-            "version": "^2.3.2"
           }
         ],
         "devDependencies": [
@@ -923,12 +919,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-14T12:29:50.532Z",
+      "buildTime": "2018-02-14T13:03:04.600Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "38851143296b52504859a6556d8e51db",
+        "contentDigest": "92b2a5718219b1aaa75fd759c01165ab",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1208,7 +1204,7 @@
       "size": 201,
       "prettySize": "201 B",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1226,11 +1222,11 @@
       "blksize": 4096,
       "ino": 3229294698,
       "blocks": 8,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148651.9473,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.652Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1240,7 +1236,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "73dde25b838e9f6524aa7bffe66661eb",
+        "contentDigest": "283bbf5bcb2cad60818b30e0894050c7",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1249,12 +1245,12 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 4892,
-      "prettySize": "4.89 kB",
-      "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
-      "changeTime": "2018-02-14T12:24:12.051Z",
-      "birthTime": "2018-02-14T12:24:12.051Z",
+      "size": 4719,
+      "prettySize": "4.72 kB",
+      "modifiedTime": "2018-02-14T13:02:59.985Z",
+      "accessTime": "2018-02-14T13:01:27.368Z",
+      "changeTime": "2018-02-14T13:02:59.985Z",
+      "birthTime": "2018-02-14T13:02:59.985Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
       "base": "index.js",
@@ -1270,14 +1266,14 @@
       "blksize": 4096,
       "ino": 3229294699,
       "blocks": 16,
-      "atimeMs": 1518611052051.0352,
-      "mtimeMs": 1518611052051.0352,
-      "ctimeMs": 1518611052051.0352,
-      "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
-      "mtime": "2018-02-14T12:24:12.051Z",
-      "ctime": "2018-02-14T12:24:12.051Z",
-      "birthtime": "2018-02-14T12:24:12.051Z"
+      "atimeMs": 1518613287367.9236,
+      "mtimeMs": 1518613379984.7756,
+      "ctimeMs": 1518613379984.7756,
+      "birthtimeMs": 1518613379984.7756,
+      "atime": "2018-02-14T13:01:27.368Z",
+      "mtime": "2018-02-14T13:02:59.985Z",
+      "ctime": "2018-02-14T13:02:59.985Z",
+      "birthtime": "2018-02-14T13:02:59.985Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
@@ -1298,7 +1294,7 @@
       "size": 1528,
       "prettySize": "1.53 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1316,149 +1312,11 @@
       "blksize": 4096,
       "ino": 8037679,
       "blocks": 8,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148651.9473,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
-      "mtime": "2018-02-14T12:24:12.051Z",
-      "ctime": "2018-02-14T12:24:12.051Z",
-      "birthtime": "2018-02-14T12:24:12.051Z"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "children": [
-        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "364274c62ee36aa6153fcc5c512af678",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "extension": "md",
-      "size": 2199,
-      "prettySize": "2.2 kB",
-      "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
-      "changeTime": "2018-02-14T12:24:12.051Z",
-      "birthTime": "2018-02-14T12:24:12.051Z",
-      "root": "/",
-      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
-      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "ext": ".md",
-      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
-      "relativeDirectory": "blog",
-      "dev": 2067,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 100,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1080065441,
-      "blocks": 8,
-      "atimeMs": 1518611052051.0352,
-      "mtimeMs": 1518611052051.0352,
-      "ctimeMs": 1518611052051.0352,
-      "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
-      "mtime": "2018-02-14T12:24:12.051Z",
-      "ctime": "2018-02-14T12:24:12.051Z",
-      "birthtime": "2018-02-14T12:24:12.051Z"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
-      "children": [
-        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a05bd48c5619c7579382c171c6ed40b3",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
-      "relativePath": "blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
-      "extension": "md",
-      "size": 2447,
-      "prettySize": "2.45 kB",
-      "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
-      "changeTime": "2018-02-14T12:24:12.051Z",
-      "birthTime": "2018-02-14T12:24:12.051Z",
-      "root": "/",
-      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
-      "base": "2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
-      "ext": ".md",
-      "name": "2017-01-04-a-beginners-guide-to-brewing-with-chemex",
-      "relativeDirectory": "blog",
-      "dev": 2067,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 100,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1080065442,
-      "blocks": 8,
-      "atimeMs": 1518611052051.0352,
-      "mtimeMs": 1518611052051.0352,
-      "ctimeMs": 1518611052051.0352,
-      "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
-      "mtime": "2018-02-14T12:24:12.051Z",
-      "ctime": "2018-02-14T12:24:12.051Z",
-      "birthtime": "2018-02-14T12:24:12.051Z"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
-      "children": [
-        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ee216995632685abc119e517f8aa7366",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
-      "relativePath": "blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
-      "extension": "md",
-      "size": 2698,
-      "prettySize": "2.7 kB",
-      "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
-      "changeTime": "2018-02-14T12:24:12.051Z",
-      "birthTime": "2018-02-14T12:24:12.051Z",
-      "root": "/",
-      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
-      "base": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
-      "ext": ".md",
-      "name": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week",
-      "relativeDirectory": "blog",
-      "dev": 2067,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 100,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1080065443,
-      "blocks": 8,
-      "atimeMs": 1518611052051.0352,
-      "mtimeMs": 1518611052051.0352,
-      "ctimeMs": 1518611052051.0352,
-      "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.652Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1482,7 +1340,7 @@
       "size": 4321,
       "prettySize": "4.32 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1500,11 +1358,149 @@
       "blksize": 4096,
       "ino": 2155748957,
       "blocks": 16,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148651.9473,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.652Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "364274c62ee36aa6153fcc5c512af678",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "extension": "md",
+      "size": 2199,
+      "prettySize": "2.2 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "ext": ".md",
+      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
+      "relativeDirectory": "blog",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065441,
+      "blocks": 8,
+      "atimeMs": 1518611148651.9473,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.652Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a05bd48c5619c7579382c171c6ed40b3",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
+      "relativePath": "blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
+      "extension": "md",
+      "size": 2447,
+      "prettySize": "2.45 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "base": "2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
+      "ext": ".md",
+      "name": "2017-01-04-a-beginners-guide-to-brewing-with-chemex",
+      "relativeDirectory": "blog",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065442,
+      "blocks": 8,
+      "atimeMs": 1518611148651.9473,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.652Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee216995632685abc119e517f8aa7366",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
+      "relativePath": "blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
+      "extension": "md",
+      "size": 2698,
+      "prettySize": "2.7 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "base": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
+      "ext": ".md",
+      "name": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week",
+      "relativeDirectory": "blog",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065443,
+      "blocks": 8,
+      "atimeMs": 1518611148651.9473,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.652Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1528,7 +1524,7 @@
       "size": 4337,
       "prettySize": "4.34 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1546,11 +1542,11 @@
       "blksize": 4096,
       "ino": 3229294701,
       "blocks": 16,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148651.9473,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.652Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1574,7 +1570,7 @@
       "size": 4464,
       "prettySize": "4.46 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1592,11 +1588,11 @@
       "blksize": 4096,
       "ino": 8037689,
       "blocks": 16,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148651.9473,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.652Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1620,7 +1616,7 @@
       "size": 4930,
       "prettySize": "4.93 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.652Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1638,96 +1634,14 @@
       "blksize": 4096,
       "ino": 8037691,
       "blocks": 16,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148651.9473,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.652Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: blog-post\npath: making-sense\ntitle: Making sense of the SCAA’s new Flavor Wheel\ndate: 2016-12-17T15:04:10.000Z\ndescription: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.\n---\n\n![flavor wheel](/img/flavor_wheel.jpg)\n\nThe SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.\n\nWhile this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.\n\n## What the updates mean to you\n\nThe Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:\n\n* producers\n* roasters\n* importers/exporters\n* retailers\n* manufacturers\n* baristas\n\nFor over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.\n\nCoffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as \"Q Graders\". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.\n\nThe coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.\n",
-        "contentDigest": "4265b24703e29f463a7e8bcd9917efbf",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Making sense of the SCAA’s new Flavor Wheel",
-        "templateKey": "blog-post",
-        "path": "making-sense",
-        "date": "2016-12-17T15:04:10.000Z",
-        "description": "The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.",
-        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
-      },
-      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
-        "contentDigest": "e390d938977f3e84df0a927eaf0edda2",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "About our values",
-        "templateKey": "about-page",
-        "path": "/about",
-        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
-        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file"
-      },
-      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: blog-post\npath: /brewing-chemex\ntitle: A beginners’ guide to brewing with Chemex\ndate: 2017-01-04T15:04:10.000Z\ndescription: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.\n---\n![chemex](/img/chemex.jpg)\n\nThis week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.\n\nIn 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _\"one of the best-designed products of modern times\"_, and so is included in the collection of the Museum of Modern Art in New York City.\n\n## The little secrets of Chemex brewing\n\nThe Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:\n\n1. Always buy dedicated Chemex filters.\n2. Use a scale, don’t try to eyeball it.\n3. Never skip preheating the glass.\n4. Timing is key, don’t forget the clock.\n\nThe most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.\n\nFor a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.\n",
-        "contentDigest": "6ad1fbe935edefe232a925e2501ada4d",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "A beginners’ guide to brewing with Chemex",
-        "templateKey": "blog-post",
-        "path": "/brewing-chemex",
-        "date": "2017-01-04T15:04:10.000Z",
-        "description": "Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.",
-        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
-        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file"
-      },
-      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md"
-    },
-    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'blog-post'\npath: /jamaica-blue\ntitle: 'Just in: small batch of Jamaican Blue Mountain in store next week'\ndate: 2017-01-04T15:04:10.000Z\ndescription: >-\n  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue\n  Mountain coffee beans in our store next week.\n---\n\nWe expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.\n\nBlue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.\n\n## A little history\n\nThe Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.\n\n>Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.\n\nThis is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.\n\n## What you need to know before trying\n\nJamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.\n\nJamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.\n\nThe Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.\n",
-        "contentDigest": "a495d8832b25e48e43ee4334fe69e90e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Just in: small batch of Jamaican Blue Mountain in store next week",
-        "templateKey": "blog-post",
-        "path": "/jamaica-blue",
-        "date": "2017-01-04T15:04:10.000Z",
-        "description": "We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.",
-        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
-        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file"
-      },
-      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark",
@@ -1835,6 +1749,88 @@
         "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file"
       },
       "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: making-sense\ntitle: Making sense of the SCAA’s new Flavor Wheel\ndate: 2016-12-17T15:04:10.000Z\ndescription: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.\n---\n\n![flavor wheel](/img/flavor_wheel.jpg)\n\nThe SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.\n\nWhile this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.\n\n## What the updates mean to you\n\nThe Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:\n\n* producers\n* roasters\n* importers/exporters\n* retailers\n* manufacturers\n* baristas\n\nFor over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.\n\nCoffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as \"Q Graders\". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.\n\nThe coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.\n",
+        "contentDigest": "4265b24703e29f463a7e8bcd9917efbf",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Making sense of the SCAA’s new Flavor Wheel",
+        "templateKey": "blog-post",
+        "path": "making-sense",
+        "date": "2016-12-17T15:04:10.000Z",
+        "description": "The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
+        "contentDigest": "e390d938977f3e84df0a927eaf0edda2",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "About our values",
+        "templateKey": "about-page",
+        "path": "/about",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: /brewing-chemex\ntitle: A beginners’ guide to brewing with Chemex\ndate: 2017-01-04T15:04:10.000Z\ndescription: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.\n---\n![chemex](/img/chemex.jpg)\n\nThis week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.\n\nIn 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _\"one of the best-designed products of modern times\"_, and so is included in the collection of the Museum of Modern Art in New York City.\n\n## The little secrets of Chemex brewing\n\nThe Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:\n\n1. Always buy dedicated Chemex filters.\n2. Use a scale, don’t try to eyeball it.\n3. Never skip preheating the glass.\n4. Timing is key, don’t forget the clock.\n\nThe most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.\n\nFor a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.\n",
+        "contentDigest": "6ad1fbe935edefe232a925e2501ada4d",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "A beginners’ guide to brewing with Chemex",
+        "templateKey": "blog-post",
+        "path": "/brewing-chemex",
+        "date": "2017-01-04T15:04:10.000Z",
+        "description": "Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'blog-post'\npath: /jamaica-blue\ntitle: 'Just in: small batch of Jamaican Blue Mountain in store next week'\ndate: 2017-01-04T15:04:10.000Z\ndescription: >-\n  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue\n  Mountain coffee beans in our store next week.\n---\n\nWe expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.\n\nBlue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.\n\n## A little history\n\nThe Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.\n\n>Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.\n\nThis is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.\n\n## What you need to know before trying\n\nJamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.\n\nJamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.\n\nThe Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.\n",
+        "contentDigest": "a495d8832b25e48e43ee4334fe69e90e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Just in: small batch of Jamaican Blue Mountain in store next week",
+        "templateKey": "blog-post",
+        "path": "/jamaica-blue",
+        "date": "2017-01-04T15:04:10.000Z",
+        "description": "We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark",
@@ -2217,7 +2213,7 @@
       "size": 2694,
       "prettySize": "2.69 kB",
       "modifiedTime": "2018-02-14T12:24:12.047Z",
-      "accessTime": "2018-02-14T12:24:12.047Z",
+      "accessTime": "2018-02-14T12:25:48.700Z",
       "changeTime": "2018-02-14T12:24:12.047Z",
       "birthTime": "2018-02-14T12:24:12.047Z",
       "root": "/",
@@ -2235,11 +2231,11 @@
       "blksize": 4096,
       "ino": 1079224502,
       "blocks": 8,
-      "atimeMs": 1518611052047.0352,
+      "atimeMs": 1518611148699.9478,
       "mtimeMs": 1518611052047.0352,
       "ctimeMs": 1518611052047.0352,
       "birthtimeMs": 1518611052047.0352,
-      "atime": "2018-02-14T12:24:12.047Z",
+      "atime": "2018-02-14T12:25:48.700Z",
       "mtime": "2018-02-14T12:24:12.047Z",
       "ctime": "2018-02-14T12:24:12.047Z",
       "birthtime": "2018-02-14T12:24:12.047Z"
@@ -2261,7 +2257,7 @@
       "size": 15704,
       "prettySize": "15.7 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.700Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -2279,11 +2275,11 @@
       "blksize": 4096,
       "ino": 1079570951,
       "blocks": 32,
-      "atimeMs": 1518611052051.0352,
+      "atimeMs": 1518611148699.9478,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.051Z",
+      "atime": "2018-02-14T12:25:48.700Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -2307,7 +2303,7 @@
       "size": 66434,
       "prettySize": "66.4 kB",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:24:12.047Z",
+      "accessTime": "2018-02-14T12:25:48.700Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -2325,11 +2321,11 @@
       "blksize": 4096,
       "ino": 1079224511,
       "blocks": 136,
-      "atimeMs": 1518611052047.0352,
+      "atimeMs": 1518611148699.9478,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:24:12.047Z",
+      "atime": "2018-02-14T12:25:48.700Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -2344,29 +2340,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /about": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about",
-      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
-      "context": {
-        "path": "/about"
-      },
-      "updatedAt": 1518611392567,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
-      "id": "SitePage /about",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "477dac8c4c9833c705a648236375f418",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /products": {
       "layout": "index",
       "jsonName": "products.json",
@@ -2377,7 +2350,7 @@
       "context": {
         "path": "/products"
       },
-      "updatedAt": 1518611392567,
+      "updatedAt": 1518613386843,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2386,7 +2359,30 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "55a52bbdebde859544baf54819f51e98",
+        "contentDigest": "7fc32d89f6060ac77c64ec3238e05cb4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "path": "/about"
+      },
+      "updatedAt": 1518613386844,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7647b8a9b2409f69097ec1151f47e0f1",
         "owner": "internal-data-bridge"
       }
     },
@@ -2400,7 +2396,7 @@
       "context": {
         "path": "/products/solarheaters"
       },
-      "updatedAt": 1518611392568,
+      "updatedAt": 1518613386844,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2409,7 +2405,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d787dbc8fbd20bdfed89ec710ac1da4",
+        "contentDigest": "42ef3d7a71e9c6560644dee68510ad46",
         "owner": "internal-data-bridge"
       }
     },
@@ -2423,7 +2419,7 @@
       "context": {
         "path": "/products/incineratingtoilets"
       },
-      "updatedAt": 1518611392568,
+      "updatedAt": 1518613386844,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2432,7 +2428,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6fee81a5ac8baaba96b78294aebd7f4c",
+        "contentDigest": "71a0fd3b57f569f8ec88e8c778f0b68d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2446,7 +2442,7 @@
       "context": {
         "path": "/products/waterlesstoilets"
       },
-      "updatedAt": 1518611392569,
+      "updatedAt": 1518613386845,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2455,7 +2451,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4fe8b04293c67358ab0c1ff9c35a1471",
+        "contentDigest": "745b638ecc8c4d03be8d4ebf2d748bc5",
         "owner": "internal-data-bridge"
       }
     },
@@ -2469,7 +2465,7 @@
       "context": {
         "path": "/brewing-chemex"
       },
-      "updatedAt": 1518611392569,
+      "updatedAt": 1518613386845,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2478,7 +2474,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3fdd03c79aebdadf6d04d2d6575f9adf",
+        "contentDigest": "d799f802c734c876435e98967467deae",
         "owner": "internal-data-bridge"
       }
     },
@@ -2492,7 +2488,7 @@
       "context": {
         "path": "/jamaica-blue"
       },
-      "updatedAt": 1518611392569,
+      "updatedAt": 1518613386846,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2501,7 +2497,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "58d7f087c348b7ee501ba27d6b391207",
+        "contentDigest": "ad85bfd54cd1c84093db388fccd5a0ae",
         "owner": "internal-data-bridge"
       }
     },
@@ -2515,7 +2511,7 @@
       "context": {
         "path": "making-sense"
       },
-      "updatedAt": 1518611392570,
+      "updatedAt": 1518613386846,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2524,7 +2520,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e9d6477934d5e9f6c02a3a342c9f041",
+        "contentDigest": "c946372df6eeaeb49c953828dfd19f4c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2536,7 +2532,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518611392585,
+      "updatedAt": 1518613386859,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2545,7 +2541,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "97221dcb8e28ac2de94ed899dd84499c",
+        "contentDigest": "afb8ea4ec7bd2ed514f6c6fc931019de",
         "owner": "internal-data-bridge"
       }
     },
@@ -2557,7 +2553,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1518611392585,
+      "updatedAt": 1518613386859,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
@@ -2566,7 +2562,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b40f3e3cadfe4fe135cbb8eb0052d9e6",
+        "contentDigest": "cbcd089628ec8e1fc959c1ba41d6a8a6",
         "owner": "internal-data-bridge"
       }
     },
@@ -2578,7 +2574,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518611392587,
+      "updatedAt": 1518613386861,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2587,24 +2583,22 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "13f743e139938fc5e8250d8f64eb8a1e",
+        "contentDigest": "0df8e1f59ac4d54306c28704326873ca",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0056279bf4c43d9df2a62fe42661ff2a"
+    "PLUGINS_HASH": "345b7f2b18abad76500cf0114ad420f0"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark": [
-        "/products/",
-        "LAYOUT___withSidebar",
-        "/products"
-      ],
       "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark": [
         "/about"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark": [
+        "/products"
       ],
       "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark": [
         "/products/solarheaters"
@@ -2633,10 +2627,10 @@
         "/dev-404-page/"
       ],
       "MarkdownRemark": [
+        "/products",
         "/products/solarheaters",
         "/products/waterlesstoilets",
-        "/products/incineratingtoilets",
-        "/products"
+        "/products/incineratingtoilets"
       ]
     }
   }
