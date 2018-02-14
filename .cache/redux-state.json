@@ -1,0 +1,2643 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1518611392538,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1ec25814e2021a8982bb11ade35dd6d2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fcbe6f1ffd88acb4c1f9b1f9d285be7f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "68d478e17242f145080cf312b8765b32",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "aece9ec7d2d5c70b25fe6071db81d97e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "551de89b51af075a8b3857c6eb3f4c58",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0b98900d4aa8890b8a6da0e8492249ad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9b81d1741b0d3b8bbe76341d65745b9d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "10e29c9de5bd22dd2503b87ae047fcd5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9710af997feaa4764d15ae55b1074831",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.11",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/Valimr/Sites/enviroalternatives/src/img",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d2cb03820eb090ecacf0790bfcdb00c4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c314a30ae4a0e5aebd362c34000e5881",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d3098505c5752f5dabf6ea3ea88dde0d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.26",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.26",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f8d4d540911f56f243bd3eb6d0faec98",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify-cms": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-netlify-cms",
+      "id": "Plugin gatsby-plugin-netlify-cms",
+      "name": "gatsby-plugin-netlify-cms",
+      "version": "1.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "modulePath": "/home/Valimr/Sites/enviroalternatives/src/cms/cms.js"
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives/node_modules/gatsby-plugin-netlify-cms",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify-cms",
+        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
+        "version": "1.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "netlify-cms"
+        ],
+        "author": {
+          "name": "Shawn Erquhart",
+          "email": "shawn@erquh.art"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "html-webpack-include-assets-plugin",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "html-webpack-plugin",
+            "version": "^2.30.1"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "68ec13ca077bcaf252ba3e761c9090b6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/Valimr/Sites/enviroalternatives",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "b903d17cf9f0fd00125415aec8f91170",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/home/Valimr/Sites/enviroalternatives",
+      "packageJson": {
+        "name": "gatsby-starter-netlify-cms",
+        "description": "Example Gatsby, and Netlify CMS project",
+        "version": "1.1.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Austin Green",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bulma",
+            "version": "^0.6.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.63"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.18"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.18"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.5"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.17"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.13"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.2.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-load-script",
+            "version": "0.0.6"
+          },
+          {
+            "name": "react-sidebar",
+            "version": "^2.3.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8438a4471938d6d55eaf9c0b1006b738",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "EnviroAlternatives"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-02-14T12:29:50.532Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "38851143296b52504859a6556d8e51db",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0c90cd08cf9a91871c6279279a3e1810",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 76,
+      "prettySize": "76 B",
+      "modifiedTime": "2018-02-14T12:28:46.630Z",
+      "accessTime": "2018-02-14T12:28:46.734Z",
+      "changeTime": "2018-02-14T12:28:46.630Z",
+      "birthTime": "2018-02-14T12:28:46.630Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294697,
+      "blocks": 0,
+      "atimeMs": 1518611326733.6292,
+      "mtimeMs": 1518611326629.6282,
+      "ctimeMs": 1518611326629.6282,
+      "birthtimeMs": 1518611326629.6282,
+      "atime": "2018-02-14T12:28:46.734Z",
+      "mtime": "2018-02-14T12:28:46.630Z",
+      "ctime": "2018-02-14T12:28:46.630Z",
+      "birthtime": "2018-02-14T12:28:46.630Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/about absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c71090a477ad5ff1c8f9ebba69326707",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/about",
+      "relativePath": "about",
+      "extension": "",
+      "size": 22,
+      "prettySize": "22 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.644Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "base": "about",
+      "ext": "",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8037640,
+      "blocks": 0,
+      "atimeMs": 1518611148643.947,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.644Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2f4082364c8986aa246e1c9d24eeb7d5",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 218,
+      "prettySize": "218 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.644Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065440,
+      "blocks": 0,
+      "atimeMs": 1518611148643.947,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.644Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7e214d24f4cdf1a602c3ca7dbba20159",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
+      "relativePath": "product",
+      "extension": "",
+      "size": 68,
+      "prettySize": "68 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.644Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "base": "product",
+      "ext": "",
+      "name": "product",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2155748955,
+      "blocks": 0,
+      "atimeMs": 1518611148643.947,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.644Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6a84582a305b5f15f7f489ff2377d5d5",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters",
+      "relativePath": "product/solarheaters",
+      "extension": "",
+      "size": 29,
+      "prettySize": "29 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.644Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
+      "base": "solarheaters",
+      "ext": "",
+      "name": "solarheaters",
+      "relativeDirectory": "product",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294700,
+      "blocks": 0,
+      "atimeMs": 1518611148643.947,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.644Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "800ebcebafa3e7be352a5d1eb55b45ec",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets",
+      "relativePath": "product/waterlesstoilets",
+      "extension": "",
+      "size": 63,
+      "prettySize": "63 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.644Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
+      "base": "waterlesstoilets",
+      "ext": "",
+      "name": "waterlesstoilets",
+      "relativeDirectory": "product",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8037687,
+      "blocks": 0,
+      "atimeMs": 1518611148643.947,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.644Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/404.js absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dab525fca0db8ad2986d5becbcd80a34",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 201,
+      "prettySize": "201 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294698,
+      "blocks": 8,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/index.js absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "73dde25b838e9f6524aa7bffe66661eb",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 4892,
+      "prettySize": "4.89 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294699,
+      "blocks": 16,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md",
+      "relativePath": "about/about.md",
+      "extension": "md",
+      "size": 1528,
+      "prettySize": "1.53 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/about",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "about",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8037679,
+      "blocks": 8,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "364274c62ee36aa6153fcc5c512af678",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "extension": "md",
+      "size": 2199,
+      "prettySize": "2.2 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "ext": ".md",
+      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
+      "relativeDirectory": "blog",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065441,
+      "blocks": 8,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a05bd48c5619c7579382c171c6ed40b3",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
+      "relativePath": "blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
+      "extension": "md",
+      "size": 2447,
+      "prettySize": "2.45 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "base": "2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
+      "ext": ".md",
+      "name": "2017-01-04-a-beginners-guide-to-brewing-with-chemex",
+      "relativeDirectory": "blog",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065442,
+      "blocks": 8,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee216995632685abc119e517f8aa7366",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
+      "relativePath": "blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
+      "extension": "md",
+      "size": 2698,
+      "prettySize": "2.7 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/blog",
+      "base": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md",
+      "ext": ".md",
+      "name": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week",
+      "relativeDirectory": "blog",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1080065443,
+      "blocks": 8,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee9dd282d33b6fa3ddace5102bd4c509",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md",
+      "relativePath": "product/product.md",
+      "extension": "md",
+      "size": 4321,
+      "prettySize": "4.32 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
+      "base": "product.md",
+      "ext": ".md",
+      "name": "product",
+      "relativeDirectory": "product",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2155748957,
+      "blocks": 16,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7b761f0cb04e50387ddcb4100b757073",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md",
+      "relativePath": "product/solarheaters/solarheaters.md",
+      "extension": "md",
+      "size": 4337,
+      "prettySize": "4.34 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters",
+      "base": "solarheaters.md",
+      "ext": ".md",
+      "name": "solarheaters",
+      "relativeDirectory": "product/solarheaters",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294701,
+      "blocks": 16,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3ab0708d680877ffba3fba4c91a4f6ea",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md",
+      "relativePath": "product/waterlesstoilets/incineratingtoilets.md",
+      "extension": "md",
+      "size": 4464,
+      "prettySize": "4.46 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets",
+      "base": "incineratingtoilets.md",
+      "ext": ".md",
+      "name": "incineratingtoilets",
+      "relativeDirectory": "product/waterlesstoilets",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8037689,
+      "blocks": 16,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "81892c9bb8bc0e0b2ab50d9ee3f7be04",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md",
+      "relativePath": "product/waterlesstoilets/waterlesstoilets.md",
+      "extension": "md",
+      "size": 4930,
+      "prettySize": "4.93 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets",
+      "base": "waterlesstoilets.md",
+      "ext": ".md",
+      "name": "waterlesstoilets",
+      "relativeDirectory": "product/waterlesstoilets",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8037691,
+      "blocks": 16,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: making-sense\ntitle: Making sense of the SCAA’s new Flavor Wheel\ndate: 2016-12-17T15:04:10.000Z\ndescription: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.\n---\n\n![flavor wheel](/img/flavor_wheel.jpg)\n\nThe SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.\n\nWhile this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.\n\n## What the updates mean to you\n\nThe Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:\n\n* producers\n* roasters\n* importers/exporters\n* retailers\n* manufacturers\n* baristas\n\nFor over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.\n\nCoffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as \"Q Graders\". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.\n\nThe coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.\n",
+        "contentDigest": "4265b24703e29f463a7e8bcd9917efbf",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Making sense of the SCAA’s new Flavor Wheel",
+        "templateKey": "blog-post",
+        "path": "making-sense",
+        "date": "2016-12-17T15:04:10.000Z",
+        "description": "The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
+        "contentDigest": "e390d938977f3e84df0a927eaf0edda2",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "About our values",
+        "templateKey": "about-page",
+        "path": "/about",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: /brewing-chemex\ntitle: A beginners’ guide to brewing with Chemex\ndate: 2017-01-04T15:04:10.000Z\ndescription: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.\n---\n![chemex](/img/chemex.jpg)\n\nThis week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.\n\nIn 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _\"one of the best-designed products of modern times\"_, and so is included in the collection of the Museum of Modern Art in New York City.\n\n## The little secrets of Chemex brewing\n\nThe Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:\n\n1. Always buy dedicated Chemex filters.\n2. Use a scale, don’t try to eyeball it.\n3. Never skip preheating the glass.\n4. Timing is key, don’t forget the clock.\n\nThe most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.\n\nFor a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.\n",
+        "contentDigest": "6ad1fbe935edefe232a925e2501ada4d",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "A beginners’ guide to brewing with Chemex",
+        "templateKey": "blog-post",
+        "path": "/brewing-chemex",
+        "date": "2017-01-04T15:04:10.000Z",
+        "description": "Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'blog-post'\npath: /jamaica-blue\ntitle: 'Just in: small batch of Jamaican Blue Mountain in store next week'\ndate: 2017-01-04T15:04:10.000Z\ndescription: >-\n  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue\n  Mountain coffee beans in our store next week.\n---\n\nWe expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.\n\nBlue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.\n\n## A little history\n\nThe Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.\n\n>Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.\n\nThis is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.\n\n## What you need to know before trying\n\nJamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.\n\nJamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.\n\nThe Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.\n",
+        "contentDigest": "a495d8832b25e48e43ee4334fe69e90e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Just in: small batch of Jamaican Blue Mountain in store next week",
+        "templateKey": "blog-post",
+        "path": "/jamaica-blue",
+        "date": "2017-01-04T15:04:10.000Z",
+        "description": "We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.",
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'product-page'\npath: /products\ntitle: Our Coffee\nimage: /img/jumbotron.jpg\nheading: What we offer\ndescription: >-\n  Kaldi is the ultimate spot for coffee lovers who want to learn about their\n  java’s origin and support the farmers that grew it. We take coffee production,\n  roasting and brewing seriously and we’re glad to pass that knowledge to\n  anyone.\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "1d7d1dae9434cc8e3025c30ce887b812",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Our Coffee",
+        "templateKey": "product-page",
+        "path": "/products",
+        "image": "/img/jumbotron.jpg",
+        "heading": "What we offer",
+        "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'product-page'\npath: /products/solarheaters\ntitle: Solar Heaters\nimage: /img/jumbotron.jpg\nheading: Solar Heaters\ndescription: >-\n  Kaldi is the ultimate spot for coffee lovers who want to learn about their\n  java’s origin and support the farmers that grew it. We take coffee production,\n  roasting and brewing seriously and we’re glad to pass that knowledge to\n  anyone.\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "860ee7d2d5c72643a0d53d9ce4401809",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Solar Heaters",
+        "templateKey": "product-page",
+        "path": "/products/solarheaters",
+        "image": "/img/jumbotron.jpg",
+        "heading": "Solar Heaters",
+        "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'product-page'\npath: /products/incineratingtoilets\ntitle: Incinerating Toilets\nimage: /img/jumbotron.jpg\nheading: Incinerating Toilets\ndescription: >-\n  There are several models of incinerating toilets. The Incinolet out of Texas is an electric model, which we don't carry.\n  The Storburn and Use'n Burn Toilets were wonderful, well-built units. Unfortunately, Storburn has gone out of business.\n  If you already own a Storburn toilet and you are out of masking foam, here are some alternative sources:\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "9000b3d7ea3e24b9835b20e4948ef3e9",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Incinerating Toilets",
+        "templateKey": "product-page",
+        "path": "/products/incineratingtoilets",
+        "image": "/img/jumbotron.jpg",
+        "heading": "Incinerating Toilets",
+        "description": "There are several models of incinerating toilets. The Incinolet out of Texas is an electric model, which we don't carry. The Storburn and Use'n Burn Toilets were wonderful, well-built units. Unfortunately, Storburn has gone out of business. If you already own a Storburn toilet and you are out of masking foam, here are some alternative sources:",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'product-page'\npath: /products/waterlesstoilets\ntitle: Waterless Toilets\nimage: /img/jumbotron.jpg\nheading: Waterless Toilets\ndescription: >-\n  There many forms of toilets that do not use water. Anaerobic systems, such as out-houses and methane digesters function on non-oxygen-breathing organisms such as leeches, flat worms and anaerobic bacteria, and they emit ammonia, methane, sulfur. Aerobic systems, such as composting toilets, emit primarily carbon dioxide and water. The simplest form of a composting toilet would be a five-gallon bucket containing sawdust; much more sophisticated versions now exist, such as the Phoenix, the CTS, the Clivus Multrum and many more. If the climate is too cold to enable composting to occur, another option is to burn up the waste. Incinerating toilets are practical in remote sites, cold regions, and for large mobile groups of people. A fourth option is dehydration toilet -- an evaporative toilet -- that dries up the waste.\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "1d0f362aa6dadec3b3c7d4a097c8bf75",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Waterless Toilets",
+        "templateKey": "product-page",
+        "path": "/products/waterlesstoilets",
+        "image": "/img/jumbotron.jpg",
+        "heading": "Waterless Toilets",
+        "description": "There many forms of toilets that do not use water. Anaerobic systems, such as out-houses and methane digesters function on non-oxygen-breathing organisms such as leeches, flat worms and anaerobic bacteria, and they emit ammonia, methane, sulfur. Aerobic systems, such as composting toilets, emit primarily carbon dioxide and water. The simplest form of a composting toilet would be a five-gallon bucket containing sawdust; much more sophisticated versions now exist, such as the Phoenix, the CTS, the Clivus Multrum and many more. If the climate is too cold to enable composting to occur, another option is to burn up the waste. Incinerating toilets are practical in remote sites, cold regions, and for large mobile groups of people. A fourth option is dehydration toilet -- an evaporative toilet -- that dries up the waste.",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/img absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/img absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b785e3b44610798fd3a8fb6d72a72e1f",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 61,
+      "prettySize": "61 B",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:25:48.700Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 2067,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1079224501,
+      "blocks": 0,
+      "atimeMs": 1518611148699.9478,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:25:48.700Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/img/github-icon.svg absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/img/github-icon.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2018-02-14T12:24:12.047Z",
+      "accessTime": "2018-02-14T12:24:12.047Z",
+      "changeTime": "2018-02-14T12:24:12.047Z",
+      "birthTime": "2018-02-14T12:24:12.047Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1079224502,
+      "blocks": 8,
+      "atimeMs": 1518611052047.0352,
+      "mtimeMs": 1518611052047.0352,
+      "ctimeMs": 1518611052047.0352,
+      "birthtimeMs": 1518611052047.0352,
+      "atime": "2018-02-14T12:24:12.047Z",
+      "mtime": "2018-02-14T12:24:12.047Z",
+      "ctime": "2018-02-14T12:24:12.047Z",
+      "birthtime": "2018-02-14T12:24:12.047Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/img/logo.svg absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/img/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6e967b7fe4d597a2889decff78c14e63",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/img/logo.svg",
+      "relativePath": "logo.svg",
+      "extension": "svg",
+      "size": 15704,
+      "prettySize": "15.7 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.051Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/img",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1079570951,
+      "blocks": 32,
+      "atimeMs": 1518611052051.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.051Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/img/logo.png absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/img/logo.png absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/img/logo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1813355e4ae59e9a608705c0e0f785c2",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/img/logo.png",
+      "relativePath": "logo.png",
+      "extension": "png",
+      "size": 66434,
+      "prettySize": "66.4 kB",
+      "modifiedTime": "2018-02-14T12:24:12.051Z",
+      "accessTime": "2018-02-14T12:24:12.047Z",
+      "changeTime": "2018-02-14T12:24:12.051Z",
+      "birthTime": "2018-02-14T12:24:12.051Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/img",
+      "base": "logo.png",
+      "ext": ".png",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1079224511,
+      "blocks": 136,
+      "atimeMs": 1518611052047.0352,
+      "mtimeMs": 1518611052051.0352,
+      "ctimeMs": 1518611052051.0352,
+      "birthtimeMs": 1518611052051.0352,
+      "atime": "2018-02-14T12:24:12.047Z",
+      "mtime": "2018-02-14T12:24:12.051Z",
+      "ctime": "2018-02-14T12:24:12.051Z",
+      "birthtime": "2018-02-14T12:24:12.051Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/img/logo.png absPath of file >> ImageSharp": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/img/logo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/img/logo.png absPath of file",
+      "internal": {
+        "contentDigest": "1813355e4ae59e9a608705c0e0f785c2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "path": "/about"
+      },
+      "updatedAt": 1518611392567,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "477dac8c4c9833c705a648236375f418",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products": {
+      "layout": "index",
+      "jsonName": "products.json",
+      "internalComponentName": "ComponentProducts",
+      "path": "/products",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "path": "/products"
+      },
+      "updatedAt": 1518611392567,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "id": "SitePage /products",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "55a52bbdebde859544baf54819f51e98",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/solarheaters": {
+      "layout": "index",
+      "jsonName": "products-solarheaters.json",
+      "internalComponentName": "ComponentProductsSolarheaters",
+      "path": "/products/solarheaters",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "path": "/products/solarheaters"
+      },
+      "updatedAt": 1518611392568,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "id": "SitePage /products/solarheaters",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8d787dbc8fbd20bdfed89ec710ac1da4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/incineratingtoilets": {
+      "layout": "index",
+      "jsonName": "products-incineratingtoilets.json",
+      "internalComponentName": "ComponentProductsIncineratingtoilets",
+      "path": "/products/incineratingtoilets",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "path": "/products/incineratingtoilets"
+      },
+      "updatedAt": 1518611392568,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "id": "SitePage /products/incineratingtoilets",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6fee81a5ac8baaba96b78294aebd7f4c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/waterlesstoilets": {
+      "layout": "index",
+      "jsonName": "products-waterlesstoilets.json",
+      "internalComponentName": "ComponentProductsWaterlesstoilets",
+      "path": "/products/waterlesstoilets",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "path": "/products/waterlesstoilets"
+      },
+      "updatedAt": 1518611392569,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "id": "SitePage /products/waterlesstoilets",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4fe8b04293c67358ab0c1ff9c35a1471",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /brewing-chemex": {
+      "layout": "index",
+      "jsonName": "brewing-chemex.json",
+      "internalComponentName": "ComponentBrewingChemex",
+      "path": "/brewing-chemex",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/brewing-chemex"
+      },
+      "updatedAt": 1518611392569,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
+      "id": "SitePage /brewing-chemex",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3fdd03c79aebdadf6d04d2d6575f9adf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /jamaica-blue": {
+      "layout": "index",
+      "jsonName": "jamaica-blue.json",
+      "internalComponentName": "ComponentJamaicaBlue",
+      "path": "/jamaica-blue",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/jamaica-blue"
+      },
+      "updatedAt": 1518611392569,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
+      "id": "SitePage /jamaica-blue",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "58d7f087c348b7ee501ba27d6b391207",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /making-sense": {
+      "layout": "index",
+      "jsonName": "making-sense.json",
+      "internalComponentName": "ComponentMakingSense",
+      "path": "/making-sense",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "making-sense"
+      },
+      "updatedAt": 1518611392570,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
+      "id": "SitePage /making-sense",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4e9d6477934d5e9f6c02a3a342c9f041",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1518611392585,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "97221dcb8e28ac2de94ed899dd84499c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1518611392585,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b40f3e3cadfe4fe135cbb8eb0052d9e6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1518611392587,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "13f743e139938fc5e8250d8f64eb8a1e",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "0056279bf4c43d9df2a62fe42661ff2a"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file >>> MarkdownRemark": [
+        "/products/",
+        "LAYOUT___withSidebar",
+        "/products"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark": [
+        "/about"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/product/solarheaters/solarheaters.md absPath of file >>> MarkdownRemark": [
+        "/products/solarheaters"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/waterlesstoilets.md absPath of file >>> MarkdownRemark": [
+        "/products/waterlesstoilets"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets/incineratingtoilets.md absPath of file >>> MarkdownRemark": [
+        "/products/incineratingtoilets"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
+        "/brewing-chemex"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
+        "/jamaica-blue"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
+        "making-sense"
+      ],
+      "Site": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/products/solarheaters",
+        "/products/waterlesstoilets",
+        "/products/incineratingtoilets",
+        "/products"
+      ]
+    }
+  }
+}
