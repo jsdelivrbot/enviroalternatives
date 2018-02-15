@@ -4,7 +4,7 @@ path: /products
 title: 'Green Products '
 image: /img/jumbotron.jpg
 heading: live green
-description: Kblah blah
+description: Learn about green products
 intro:
   blurbs:
     - image: /img/coffee.png
