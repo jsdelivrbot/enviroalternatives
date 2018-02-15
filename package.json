@@ -18,7 +18,8 @@
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-helmet": "^5.2.0",
-    "react-load-script": "0.0.6"
+    "react-load-script": "0.0.6",
+    "react-metismenu": "^1.4.0-alpha.2"
   },
   "keywords": [
     "gatsby"

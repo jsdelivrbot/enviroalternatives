@@ -3,7 +3,8 @@ templateKey: product-page
 path: /products
 title: 'Green Products '
 image: /img/jumbotron.jpg
-heading: live green
+heading: General Product Inormation
+category: General
 description: Kblah blah
 intro:
   blurbs:
@@ -95,4 +96,3 @@ pricing:
       plan: Custom
       price: '??'
 ---
-

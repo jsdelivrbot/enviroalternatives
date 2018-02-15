@@ -24,20 +24,6 @@
         "componentChunkName": "component---src-templates-product-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "products-solarheaters.json",
-        "path": "/products/solarheaters"
-    },
-    {
-        "componentChunkName": "component---src-templates-product-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "products-incineratingtoilets.json",
-        "path": "/products/incineratingtoilets"
-    },
-    {
-        "componentChunkName": "component---src-templates-product-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "products-waterlesstoilets.json",
         "path": "/products/waterlesstoilets"
     },
@@ -45,15 +31,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "brewing-chemex.json",
-        "path": "/brewing-chemex"
+        "jsonName": "jamaica-blue.json",
+        "path": "/jamaica-blue"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "jamaica-blue.json",
-        "path": "/jamaica-blue"
+        "jsonName": "brewing-chemex.json",
+        "path": "/brewing-chemex"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

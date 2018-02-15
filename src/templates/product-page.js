@@ -116,6 +116,7 @@ export const productPageQuery = graphql`
           frontmatter {
             title
             path
+            category
           }
         }
       }
