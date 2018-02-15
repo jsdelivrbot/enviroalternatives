@@ -3,14 +3,8 @@ templateKey: product-page
 path: /products
 title: 'Green Products '
 image: /img/jumbotron.jpg
-<<<<<<< HEAD
-heading: General Product Inormation
-category: General
-description: Kblah blah
-=======
 heading: live green
-description: Learn about green products
->>>>>>> 534b5a7912e9fb9e72133a3dd2e5ae6b7a15dcde
+description: Kblah blah
 intro:
   blurbs:
     - image: /img/coffee.png

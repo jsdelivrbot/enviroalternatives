@@ -35,6 +35,10 @@ const menu = [
 ];
 
 class Sidebar extends React.Component {
+    constructor(props) {
+      super(props);
+      this.state = {activeLinkTo: ""};
+    }
     render(props) {
         const { items, label } = this.props;
         const categories = [...new Set(items.map(
@@ -45,7 +49,6 @@ class Sidebar extends React.Component {
         <div>
           <MetisMenu
             content={menu}
-            activeLinkFromLocation
           />
         </div>
         )

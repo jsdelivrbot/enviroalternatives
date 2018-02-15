@@ -8,7 +8,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1518665192635,
+      "updatedAt": 1518724586327,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "307fcd84171e46168e93f98b48d55d21",
+        "contentDigest": "c88c29320389fac3d82aa9c1def818ec",
         "owner": "internal-data-bridge"
       }
     },
@@ -926,12 +926,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-15T03:26:30.246Z",
+      "buildTime": "2018-02-15T19:56:24.341Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e73e62fe15f1e32740031fdbec2358ad",
+        "contentDigest": "ef68641de53a75dc05a9b0a510a6a06f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -941,7 +941,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0c90cd08cf9a91871c6279279a3e1810",
+        "contentDigest": "ce56b4d76478c927d66662ba1b08cc30",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -952,7 +952,7 @@
       "size": 76,
       "prettySize": "76 B",
       "modifiedTime": "2018-02-14T12:28:46.630Z",
-      "accessTime": "2018-02-14T12:28:46.734Z",
+      "accessTime": "2018-02-15T19:17:12.204Z",
       "changeTime": "2018-02-14T12:28:46.630Z",
       "birthTime": "2018-02-14T12:28:46.630Z",
       "root": "/",
@@ -970,11 +970,11 @@
       "blksize": 4096,
       "ino": 3229294697,
       "blocks": 0,
-      "atimeMs": 1518611326733.6292,
+      "atimeMs": 1518722232203.8015,
       "mtimeMs": 1518611326629.6282,
       "ctimeMs": 1518611326629.6282,
       "birthtimeMs": 1518611326629.6282,
-      "atime": "2018-02-14T12:28:46.734Z",
+      "atime": "2018-02-15T19:17:12.204Z",
       "mtime": "2018-02-14T12:28:46.630Z",
       "ctime": "2018-02-14T12:28:46.630Z",
       "birthtime": "2018-02-14T12:28:46.630Z"
@@ -984,7 +984,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c71090a477ad5ff1c8f9ebba69326707",
+        "contentDigest": "4621b334408f15c459001dbec8724ae9",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -994,10 +994,10 @@
       "extension": "",
       "size": 22,
       "prettySize": "22 B",
-      "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:25:48.644Z",
-      "changeTime": "2018-02-14T12:24:12.051Z",
-      "birthTime": "2018-02-14T12:24:12.051Z",
+      "modifiedTime": "2018-02-15T19:20:51.345Z",
+      "accessTime": "2018-02-15T19:20:51.453Z",
+      "changeTime": "2018-02-15T19:20:51.345Z",
+      "birthTime": "2018-02-15T19:20:51.345Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
       "base": "about",
@@ -1013,21 +1013,21 @@
       "blksize": 4096,
       "ino": 8037640,
       "blocks": 0,
-      "atimeMs": 1518611148643.947,
-      "mtimeMs": 1518611052051.0352,
-      "ctimeMs": 1518611052051.0352,
-      "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:25:48.644Z",
-      "mtime": "2018-02-14T12:24:12.051Z",
-      "ctime": "2018-02-14T12:24:12.051Z",
-      "birthtime": "2018-02-14T12:24:12.051Z"
+      "atimeMs": 1518722451453.2644,
+      "mtimeMs": 1518722451345.2637,
+      "ctimeMs": 1518722451345.2637,
+      "birthtimeMs": 1518722451345.2637,
+      "atime": "2018-02-15T19:20:51.453Z",
+      "mtime": "2018-02-15T19:20:51.345Z",
+      "ctime": "2018-02-15T19:20:51.345Z",
+      "birthtime": "2018-02-15T19:20:51.345Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/blog absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2f4082364c8986aa246e1c9d24eeb7d5",
+        "contentDigest": "9483aacc4475573a9bde9d99fca9fc3e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1038,7 +1038,7 @@
       "size": 218,
       "prettySize": "218 B",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:25:48.644Z",
+      "accessTime": "2018-02-15T19:17:12.204Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1056,11 +1056,11 @@
       "blksize": 4096,
       "ino": 1080065440,
       "blocks": 0,
-      "atimeMs": 1518611148643.947,
+      "atimeMs": 1518722232203.8015,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:25:48.644Z",
+      "atime": "2018-02-15T19:17:12.204Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1070,7 +1070,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ba4fa7c5ecf2660e24c509e81c046e89",
+        "contentDigest": "72e1f17e6ca9043d7c121687c495c06a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1080,10 +1080,10 @@
       "extension": "",
       "size": 51,
       "prettySize": "51 B",
-      "modifiedTime": "2018-02-14T21:04:23.557Z",
-      "accessTime": "2018-02-14T21:04:23.565Z",
-      "changeTime": "2018-02-14T21:04:23.557Z",
-      "birthTime": "2018-02-14T21:04:23.557Z",
+      "modifiedTime": "2018-02-15T19:20:51.377Z",
+      "accessTime": "2018-02-15T19:20:51.453Z",
+      "changeTime": "2018-02-15T19:20:51.377Z",
+      "birthTime": "2018-02-15T19:20:51.377Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
       "base": "product",
@@ -1099,14 +1099,14 @@
       "blksize": 4096,
       "ino": 2155748955,
       "blocks": 0,
-      "atimeMs": 1518642263565.1348,
-      "mtimeMs": 1518642263557.1345,
-      "ctimeMs": 1518642263557.1345,
-      "birthtimeMs": 1518642263557.1345,
-      "atime": "2018-02-14T21:04:23.565Z",
-      "mtime": "2018-02-14T21:04:23.557Z",
-      "ctime": "2018-02-14T21:04:23.557Z",
-      "birthtime": "2018-02-14T21:04:23.557Z"
+      "atimeMs": 1518722451453.2644,
+      "mtimeMs": 1518722451377.2637,
+      "ctimeMs": 1518722451377.2637,
+      "birthtimeMs": 1518722451377.2637,
+      "atime": "2018-02-15T19:20:51.453Z",
+      "mtime": "2018-02-15T19:20:51.377Z",
+      "ctime": "2018-02-15T19:20:51.377Z",
+      "birthtime": "2018-02-15T19:20:51.377Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/404.js absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js absPath of file",
@@ -1203,7 +1203,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
+        "contentDigest": "d5dbd1385812ad2aa6d952411191576f",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1212,12 +1212,12 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md",
       "relativePath": "about/about.md",
       "extension": "md",
-      "size": 1528,
-      "prettySize": "1.53 kB",
-      "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:25:48.652Z",
-      "changeTime": "2018-02-14T12:24:12.051Z",
-      "birthTime": "2018-02-14T12:24:12.051Z",
+      "size": 1520,
+      "prettySize": "1.52 kB",
+      "modifiedTime": "2018-02-15T19:20:51.345Z",
+      "accessTime": "2018-02-15T19:20:51.425Z",
+      "changeTime": "2018-02-15T19:20:51.345Z",
+      "birthTime": "2018-02-15T19:20:51.345Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/about",
       "base": "about.md",
@@ -1233,14 +1233,14 @@
       "blksize": 4096,
       "ino": 8037679,
       "blocks": 8,
-      "atimeMs": 1518611148651.9473,
-      "mtimeMs": 1518611052051.0352,
-      "ctimeMs": 1518611052051.0352,
-      "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:25:48.652Z",
-      "mtime": "2018-02-14T12:24:12.051Z",
-      "ctime": "2018-02-14T12:24:12.051Z",
-      "birthtime": "2018-02-14T12:24:12.051Z"
+      "atimeMs": 1518722451425.2642,
+      "mtimeMs": 1518722451345.2637,
+      "ctimeMs": 1518722451345.2637,
+      "birthtimeMs": 1518722451345.2637,
+      "atime": "2018-02-15T19:20:51.425Z",
+      "mtime": "2018-02-15T19:20:51.345Z",
+      "ctime": "2018-02-15T19:20:51.345Z",
+      "birthtime": "2018-02-15T19:20:51.345Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
@@ -1387,7 +1387,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c27055c0ee5f5a71206176a68076ad0f",
+        "contentDigest": "476fca39c086f7fbb3e27b7fd9cf75c9",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1396,12 +1396,12 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md",
       "relativePath": "product/product.md",
       "extension": "md",
-      "size": 4119,
-      "prettySize": "4.12 kB",
-      "modifiedTime": "2018-02-15T03:10:51.989Z",
-      "accessTime": "2018-02-14T21:44:57.776Z",
-      "changeTime": "2018-02-15T03:10:51.989Z",
-      "birthTime": "2018-02-15T03:10:51.989Z",
+      "size": 4085,
+      "prettySize": "4.08 kB",
+      "modifiedTime": "2018-02-15T19:55:45.263Z",
+      "accessTime": "2018-02-15T19:55:03.495Z",
+      "changeTime": "2018-02-15T19:55:45.263Z",
+      "birthTime": "2018-02-15T19:55:45.263Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
       "base": "product.md",
@@ -1416,15 +1416,15 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 2155748957,
-      "blocks": 16,
-      "atimeMs": 1518644697775.587,
-      "mtimeMs": 1518664251989.366,
-      "ctimeMs": 1518664251989.366,
-      "birthtimeMs": 1518664251989.366,
-      "atime": "2018-02-14T21:44:57.776Z",
-      "mtime": "2018-02-15T03:10:51.989Z",
-      "ctime": "2018-02-15T03:10:51.989Z",
-      "birthtime": "2018-02-15T03:10:51.989Z"
+      "blocks": 8,
+      "atimeMs": 1518724503495.0547,
+      "mtimeMs": 1518724545263.337,
+      "ctimeMs": 1518724545263.337,
+      "birthtimeMs": 1518724545263.337,
+      "atime": "2018-02-15T19:55:03.495Z",
+      "mtime": "2018-02-15T19:55:45.263Z",
+      "ctime": "2018-02-15T19:55:45.263Z",
+      "birthtime": "2018-02-15T19:55:45.263Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets.md absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets.md absPath of file",
@@ -1477,13 +1477,13 @@
       "children": [],
       "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
-        "contentDigest": "e390d938977f3e84df0a927eaf0edda2",
+        "content": "---\ntemplateKey: about-page\npath: /about\ntitle: About Dean\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
+        "contentDigest": "4325642504158e80094cef2ad449b66f",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "About our values",
+        "title": "About Dean",
         "templateKey": "about-page",
         "path": "/about",
         "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file",
@@ -1559,8 +1559,8 @@
       "children": [],
       "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: product-page\npath: /products\ntitle: 'Green Products '\nimage: /img/jumbotron.jpg\nheading: General Product Inormation\ncategory: General\ndescription: Kblah blah\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
-        "contentDigest": "7bc869e3cc2f9285376e3ec0b01eae5d",
+        "content": "---\ntemplateKey: product-page\npath: /products\ntitle: 'Green Products '\nimage: /img/jumbotron.jpg\nheading: live green\ndescription: Kblah blah\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "96091da8717ff743e5e9d1220e8baa83",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1569,8 +1569,7 @@
         "templateKey": "product-page",
         "path": "/products",
         "image": "/img/jumbotron.jpg",
-        "heading": "General Product Inormation",
-        "category": "General",
+        "heading": "live green",
         "description": "Kblah blah",
         "intro": {
           "blurbs": [
@@ -1775,7 +1774,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b785e3b44610798fd3a8fb6d72a72e1f",
+        "contentDigest": "fb3b8c950f128a1221e9edb3c5ee8c8c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1786,7 +1785,7 @@
       "size": 61,
       "prettySize": "61 B",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-14T12:25:48.700Z",
+      "accessTime": "2018-02-15T19:17:12.204Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1804,11 +1803,11 @@
       "blksize": 4096,
       "ino": 1079224501,
       "blocks": 0,
-      "atimeMs": 1518611148699.9478,
+      "atimeMs": 1518722232203.8015,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-14T12:25:48.700Z",
+      "atime": "2018-02-15T19:17:12.204Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1967,7 +1966,7 @@
       "context": {
         "path": "/about"
       },
-      "updatedAt": 1518665192662,
+      "updatedAt": 1518724586356,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
@@ -1976,7 +1975,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6690ae981a9d3c89b916f8c131a8eb95",
+        "contentDigest": "2cc18defe25ddb3f4c00235b47e28234",
         "owner": "internal-data-bridge"
       }
     },
@@ -1990,7 +1989,7 @@
       "context": {
         "path": "/products"
       },
-      "updatedAt": 1518665192663,
+      "updatedAt": 1518724586357,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -1999,7 +1998,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d560ad4632db02cb20803b297e8305db",
+        "contentDigest": "6b0fdb8362918861087999cdee4a3263",
         "owner": "internal-data-bridge"
       }
     },
@@ -2013,7 +2012,7 @@
       "context": {
         "path": "/products/waterlesstoilets"
       },
-      "updatedAt": 1518665192663,
+      "updatedAt": 1518724586357,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2022,7 +2021,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4ceca931d0cbe543ee0891ab067d358",
+        "contentDigest": "c2bfd2b4eb85ea6ba797c65534f28891",
         "owner": "internal-data-bridge"
       }
     },
@@ -2036,7 +2035,7 @@
       "context": {
         "path": "/jamaica-blue"
       },
-      "updatedAt": 1518665192664,
+      "updatedAt": 1518724586358,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2045,7 +2044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d60e11a55956f82cba1bfdcadf318fb",
+        "contentDigest": "a8b8b71942b41287359c7a40c2f08b38",
         "owner": "internal-data-bridge"
       }
     },
@@ -2059,7 +2058,7 @@
       "context": {
         "path": "/brewing-chemex"
       },
-      "updatedAt": 1518665192664,
+      "updatedAt": 1518724586358,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2068,7 +2067,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "02506c3fbe67e5ee835ee42208779ad1",
+        "contentDigest": "605eaf041c8b17ef0dc3402402df5cf0",
         "owner": "internal-data-bridge"
       }
     },
@@ -2082,7 +2081,7 @@
       "context": {
         "path": "making-sense"
       },
-      "updatedAt": 1518665192665,
+      "updatedAt": 1518724586358,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2091,7 +2090,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d6a07e271cbd6b57707ddbb0360c2629",
+        "contentDigest": "70c0b3be270e251814670e35264a4ae5",
         "owner": "internal-data-bridge"
       }
     },
@@ -2103,7 +2102,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518665192675,
+      "updatedAt": 1518724586369,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2112,7 +2111,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2e7d3d39bf812f2d95cf39e3848d6ee2",
+        "contentDigest": "c5f9009b2ec6b819549bc4d1e1d0218a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2124,7 +2123,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1518665192676,
+      "updatedAt": 1518724586370,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
@@ -2133,7 +2132,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d6513e1812d85c7e0927d2b8334a18b",
+        "contentDigest": "914b707bd97fc86ae3e697327aadb0f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -2145,7 +2144,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518665192677,
+      "updatedAt": 1518724586371,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2154,7 +2153,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "93838f919de746c1eb7cb0729f44ecb4",
+        "contentDigest": "6c2cfb9f7a665b197238fd02a3421682",
         "owner": "internal-data-bridge"
       }
     }
