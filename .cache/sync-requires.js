@@ -10,6 +10,7 @@ exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js")),
   "component---src-templates-about-page-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js")),
   "component---src-templates-product-page-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js")),
+  "component---src-templates-lifestyle-page-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/src/templates/lifestyle-page.js")),
   "component---src-templates-blog-post-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js")),
   "component---src-pages-404-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/src/pages/404.js")),
   "component---src-pages-index-js": preferDefault(require("/home/Valimr/Sites/enviroalternatives/src/pages/index.js"))
@@ -24,6 +25,10 @@ exports.json = {
   "products.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/products.json"),
   "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
   "products-waterlesstoilets.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/products-waterlesstoilets.json"),
+  "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
+  "products-incineratingtoilets.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/products-incineratingtoilets.json"),
+  "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
+  "lifestyle.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/lifestyle.json"),
   "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
   "jamaica-blue.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/jamaica-blue.json"),
   "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),

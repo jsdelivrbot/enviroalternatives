@@ -1,12 +1,11 @@
 ---
-templateKey: product-page
-path: /products/waterlesstoilets
-title: 'General Information'
+templateKey: lifestyle-page
+path: /lifestyle
+title: Green Lifestyle
 image: /img/jumbotron.jpg
-heading: General Information
-description: General information about waterless toilets
-category: Waterless Toilets
-type: general
+heading: Green Lifestyle
+description: Kblah blah
+category: Lifestyle Home
 intro:
   blurbs:
     - image: /img/coffee.png

@@ -1,10 +1,11 @@
 ---
 templateKey: product-page
 path: /products
-title: 'Green Products '
+title: 'Green Products'
 image: /img/jumbotron.jpg
-heading: live green
+heading: something
 description: Kblah blah
+category: Home
 intro:
   blurbs:
     - image: /img/coffee.png

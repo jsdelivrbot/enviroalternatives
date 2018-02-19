@@ -1,12 +1,12 @@
 ---
 templateKey: product-page
-path: /products/waterlesstoilets
-title: 'General Information'
+path: /products/incineratingtoilets
+title: 'Incinerating Toilets'
 image: /img/jumbotron.jpg
 heading: General Information
-description: General information about waterless toilets
+description: General information about incinerating toilets
 category: Waterless Toilets
-type: general
+type: Incinerating
 intro:
   blurbs:
     - image: /img/coffee.png

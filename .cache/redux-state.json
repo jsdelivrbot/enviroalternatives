@@ -8,7 +8,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1518724586327,
+      "updatedAt": 1519079532108,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c88c29320389fac3d82aa9c1def818ec",
+        "contentDigest": "387b03d1913cc0928b3c3717b8fb92bb",
         "owner": "internal-data-bridge"
       }
     },
@@ -926,12 +926,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-15T19:56:24.341Z",
+      "buildTime": "2018-02-19T22:30:42.230Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ef68641de53a75dc05a9b0a510a6a06f",
+        "contentDigest": "f8d79592c379506259ddebe6499f0a10",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -941,7 +941,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ce56b4d76478c927d66662ba1b08cc30",
+        "contentDigest": "9b02f233d4d27f28bbe26cc1e630767a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -949,42 +949,42 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages",
       "relativePath": "",
       "extension": "",
-      "size": 76,
-      "prettySize": "76 B",
-      "modifiedTime": "2018-02-14T12:28:46.630Z",
-      "accessTime": "2018-02-15T19:17:12.204Z",
-      "changeTime": "2018-02-14T12:28:46.630Z",
-      "birthTime": "2018-02-14T12:28:46.630Z",
+      "size": 93,
+      "prettySize": "93 B",
+      "modifiedTime": "2018-02-19T22:29:34.198Z",
+      "accessTime": "2018-02-19T22:29:34.222Z",
+      "changeTime": "2018-02-19T22:29:34.198Z",
+      "birthTime": "2018-02-19T22:29:34.198Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src",
       "base": "pages",
       "ext": "",
       "name": "pages",
       "relativeDirectory": "..",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 6,
       "uid": 1000,
       "gid": 100,
       "rdev": 0,
       "blksize": 4096,
       "ino": 3229294697,
       "blocks": 0,
-      "atimeMs": 1518722232203.8015,
-      "mtimeMs": 1518611326629.6282,
-      "ctimeMs": 1518611326629.6282,
-      "birthtimeMs": 1518611326629.6282,
-      "atime": "2018-02-15T19:17:12.204Z",
-      "mtime": "2018-02-14T12:28:46.630Z",
-      "ctime": "2018-02-14T12:28:46.630Z",
-      "birthtime": "2018-02-14T12:28:46.630Z"
+      "atimeMs": 1519079374221.842,
+      "mtimeMs": 1519079374197.8418,
+      "ctimeMs": 1519079374197.8418,
+      "birthtimeMs": 1519079374197.8418,
+      "atime": "2018-02-19T22:29:34.222Z",
+      "mtime": "2018-02-19T22:29:34.198Z",
+      "ctime": "2018-02-19T22:29:34.198Z",
+      "birthtime": "2018-02-19T22:29:34.198Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/about absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4621b334408f15c459001dbec8724ae9",
+        "contentDigest": "a2da87576db68df3ab58428cc9c5cc98",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -995,7 +995,7 @@
       "size": 22,
       "prettySize": "22 B",
       "modifiedTime": "2018-02-15T19:20:51.345Z",
-      "accessTime": "2018-02-15T19:20:51.453Z",
+      "accessTime": "2018-02-19T02:35:20.240Z",
       "changeTime": "2018-02-15T19:20:51.345Z",
       "birthTime": "2018-02-15T19:20:51.345Z",
       "root": "/",
@@ -1004,7 +1004,7 @@
       "ext": "",
       "name": "about",
       "relativeDirectory": "",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
@@ -1013,11 +1013,11 @@
       "blksize": 4096,
       "ino": 8037640,
       "blocks": 0,
-      "atimeMs": 1518722451453.2644,
+      "atimeMs": 1519007720240.1458,
       "mtimeMs": 1518722451345.2637,
       "ctimeMs": 1518722451345.2637,
       "birthtimeMs": 1518722451345.2637,
-      "atime": "2018-02-15T19:20:51.453Z",
+      "atime": "2018-02-19T02:35:20.240Z",
       "mtime": "2018-02-15T19:20:51.345Z",
       "ctime": "2018-02-15T19:20:51.345Z",
       "birthtime": "2018-02-15T19:20:51.345Z"
@@ -1027,7 +1027,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9483aacc4475573a9bde9d99fca9fc3e",
+        "contentDigest": "8ded6dbf00256a350a737870ee68073a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1038,7 +1038,7 @@
       "size": 218,
       "prettySize": "218 B",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-15T19:17:12.204Z",
+      "accessTime": "2018-02-19T02:35:20.240Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1047,7 +1047,7 @@
       "ext": "",
       "name": "blog",
       "relativeDirectory": "",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
@@ -1056,11 +1056,11 @@
       "blksize": 4096,
       "ino": 1080065440,
       "blocks": 0,
-      "atimeMs": 1518722232203.8015,
+      "atimeMs": 1519007720240.1458,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-15T19:17:12.204Z",
+      "atime": "2018-02-19T02:35:20.240Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1070,7 +1070,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "72e1f17e6ca9043d7c121687c495c06a",
+        "contentDigest": "6f9f7e84b3d8e9bbf3734b33c31b9bb0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1078,19 +1078,19 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
       "relativePath": "product",
       "extension": "",
-      "size": 51,
-      "prettySize": "51 B",
-      "modifiedTime": "2018-02-15T19:20:51.377Z",
-      "accessTime": "2018-02-15T19:20:51.453Z",
-      "changeTime": "2018-02-15T19:20:51.377Z",
-      "birthTime": "2018-02-15T19:20:51.377Z",
+      "size": 81,
+      "prettySize": "81 B",
+      "modifiedTime": "2018-02-19T04:42:42.754Z",
+      "accessTime": "2018-02-19T04:42:42.766Z",
+      "changeTime": "2018-02-19T04:42:42.754Z",
+      "birthTime": "2018-02-19T04:42:42.754Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
       "base": "product",
       "ext": "",
       "name": "product",
       "relativeDirectory": "",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
@@ -1099,14 +1099,14 @@
       "blksize": 4096,
       "ino": 2155748955,
       "blocks": 0,
-      "atimeMs": 1518722451453.2644,
-      "mtimeMs": 1518722451377.2637,
-      "ctimeMs": 1518722451377.2637,
-      "birthtimeMs": 1518722451377.2637,
-      "atime": "2018-02-15T19:20:51.453Z",
-      "mtime": "2018-02-15T19:20:51.377Z",
-      "ctime": "2018-02-15T19:20:51.377Z",
-      "birthtime": "2018-02-15T19:20:51.377Z"
+      "atimeMs": 1519015362766.3125,
+      "mtimeMs": 1519015362754.3125,
+      "ctimeMs": 1519015362754.3125,
+      "birthtimeMs": 1519015362754.3125,
+      "atime": "2018-02-19T04:42:42.766Z",
+      "mtime": "2018-02-19T04:42:42.754Z",
+      "ctime": "2018-02-19T04:42:42.754Z",
+      "birthtime": "2018-02-19T04:42:42.754Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/404.js absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js absPath of file",
@@ -1387,7 +1387,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "476fca39c086f7fbb3e27b7fd9cf75c9",
+        "contentDigest": "1f1723a6fe4c6907b2b58d94e472233a",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1396,19 +1396,19 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md",
       "relativePath": "product/product.md",
       "extension": "md",
-      "size": 4085,
-      "prettySize": "4.08 kB",
-      "modifiedTime": "2018-02-15T19:55:45.263Z",
-      "accessTime": "2018-02-15T19:55:03.495Z",
-      "changeTime": "2018-02-15T19:55:45.263Z",
-      "birthTime": "2018-02-15T19:55:45.263Z",
+      "size": 4098,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-02-19T22:14:45.685Z",
+      "accessTime": "2018-02-19T05:39:40.072Z",
+      "changeTime": "2018-02-19T22:14:45.685Z",
+      "birthTime": "2018-02-19T22:14:45.685Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
       "base": "product.md",
       "ext": ".md",
       "name": "product",
       "relativeDirectory": "product",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 33188,
       "nlink": 1,
       "uid": 1000,
@@ -1416,15 +1416,15 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 2155748957,
-      "blocks": 8,
-      "atimeMs": 1518724503495.0547,
-      "mtimeMs": 1518724545263.337,
-      "ctimeMs": 1518724545263.337,
-      "birthtimeMs": 1518724545263.337,
-      "atime": "2018-02-15T19:55:03.495Z",
-      "mtime": "2018-02-15T19:55:45.263Z",
-      "ctime": "2018-02-15T19:55:45.263Z",
-      "birthtime": "2018-02-15T19:55:45.263Z"
+      "blocks": 16,
+      "atimeMs": 1519018780072.3113,
+      "mtimeMs": 1519078485684.9995,
+      "ctimeMs": 1519078485684.9995,
+      "birthtimeMs": 1519078485684.9995,
+      "atime": "2018-02-19T05:39:40.072Z",
+      "mtime": "2018-02-19T22:14:45.685Z",
+      "ctime": "2018-02-19T22:14:45.685Z",
+      "birthtime": "2018-02-19T22:14:45.685Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets.md absPath of file": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets.md absPath of file",
@@ -1433,7 +1433,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8b6b4b9df4151fd53db3eba675b1b2b9",
+        "contentDigest": "8d2cce604a21db55165d340d03a15645",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1442,19 +1442,19 @@
       "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets.md",
       "relativePath": "product/waterlesstoilets.md",
       "extension": "md",
-      "size": 4173,
-      "prettySize": "4.17 kB",
-      "modifiedTime": "2018-02-15T03:09:00.764Z",
-      "accessTime": "2018-02-15T03:08:06.712Z",
-      "changeTime": "2018-02-15T03:09:00.764Z",
-      "birthTime": "2018-02-15T03:09:00.764Z",
+      "size": 4190,
+      "prettySize": "4.19 kB",
+      "modifiedTime": "2018-02-19T22:12:08.279Z",
+      "accessTime": "2018-02-19T04:40:11.341Z",
+      "changeTime": "2018-02-19T22:12:08.279Z",
+      "birthTime": "2018-02-19T22:12:08.279Z",
       "root": "/",
       "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
       "base": "waterlesstoilets.md",
       "ext": ".md",
       "name": "waterlesstoilets",
       "relativeDirectory": "product",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 33188,
       "nlink": 1,
       "uid": 1000,
@@ -1463,14 +1463,14 @@
       "blksize": 4096,
       "ino": 2155472661,
       "blocks": 16,
-      "atimeMs": 1518664086712.0645,
-      "mtimeMs": 1518664140764.49,
-      "ctimeMs": 1518664140764.49,
-      "birthtimeMs": 1518664140764.49,
-      "atime": "2018-02-15T03:08:06.712Z",
-      "mtime": "2018-02-15T03:09:00.764Z",
-      "ctime": "2018-02-15T03:09:00.764Z",
-      "birthtime": "2018-02-15T03:09:00.764Z"
+      "atimeMs": 1519015211340.8232,
+      "mtimeMs": 1519078328279.3667,
+      "ctimeMs": 1519078328279.3667,
+      "birthtimeMs": 1519078328279.3667,
+      "atime": "2018-02-19T04:40:11.341Z",
+      "mtime": "2018-02-19T22:12:08.279Z",
+      "ctime": "2018-02-19T22:12:08.279Z",
+      "birthtime": "2018-02-19T22:12:08.279Z"
     },
     "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark": {
       "id": "/home/Valimr/Sites/enviroalternatives/src/pages/about/about.md absPath of file >>> MarkdownRemark",
@@ -1559,18 +1559,19 @@
       "children": [],
       "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/product.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: product-page\npath: /products\ntitle: 'Green Products '\nimage: /img/jumbotron.jpg\nheading: live green\ndescription: Kblah blah\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
-        "contentDigest": "96091da8717ff743e5e9d1220e8baa83",
+        "content": "---\ntemplateKey: product-page\npath: /products\ntitle: 'Green Products'\nimage: /img/jumbotron.jpg\nheading: something\ndescription: Kblah blah\ncategory: Home\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "b0b1efb357babdd3abec1a5080db2dbe",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Green Products ",
+        "title": "Green Products",
         "templateKey": "product-page",
         "path": "/products",
         "image": "/img/jumbotron.jpg",
-        "heading": "live green",
+        "heading": "something",
         "description": "Kblah blah",
+        "category": "Home",
         "intro": {
           "blurbs": [
             {
@@ -1666,19 +1667,20 @@
       "children": [],
       "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/waterlesstoilets.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: product-page\npath: /products/waterlesstoilets\ntitle: 'Waterless Toilets'\nimage: /img/jumbotron.jpg\nheading: General Information\ndescription: General information about waterless toilets\ncategory: WaterlessToilets\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
-        "contentDigest": "d9bae5f7487e32ee33d185f88671e236",
+        "content": "---\ntemplateKey: product-page\npath: /products/waterlesstoilets\ntitle: 'General Information'\nimage: /img/jumbotron.jpg\nheading: General Information\ndescription: General information about waterless toilets\ncategory: Waterless Toilets\ntype: general\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "c1f6c724ed7023b64d56b385d3ddf481",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Waterless Toilets",
+        "title": "General Information",
         "templateKey": "product-page",
         "path": "/products/waterlesstoilets",
         "image": "/img/jumbotron.jpg",
         "heading": "General Information",
         "description": "General information about waterless toilets",
-        "category": "WaterlessToilets",
+        "category": "Waterless Toilets",
+        "type": "general",
         "intro": {
           "blurbs": [
             {
@@ -1774,7 +1776,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fb3b8c950f128a1221e9edb3c5ee8c8c",
+        "contentDigest": "98d3134bc1dd083a627f8d98a3e50ed0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1785,7 +1787,7 @@
       "size": 61,
       "prettySize": "61 B",
       "modifiedTime": "2018-02-14T12:24:12.051Z",
-      "accessTime": "2018-02-15T19:17:12.204Z",
+      "accessTime": "2018-02-19T02:35:20.492Z",
       "changeTime": "2018-02-14T12:24:12.051Z",
       "birthTime": "2018-02-14T12:24:12.051Z",
       "root": "/",
@@ -1794,7 +1796,7 @@
       "ext": "",
       "name": "img",
       "relativeDirectory": "..",
-      "dev": 2067,
+      "dev": 2051,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
@@ -1803,11 +1805,11 @@
       "blksize": 4096,
       "ino": 1079224501,
       "blocks": 0,
-      "atimeMs": 1518722232203.8015,
+      "atimeMs": 1519007720492.1482,
       "mtimeMs": 1518611052051.0352,
       "ctimeMs": 1518611052051.0352,
       "birthtimeMs": 1518611052051.0352,
-      "atime": "2018-02-15T19:17:12.204Z",
+      "atime": "2018-02-19T02:35:20.492Z",
       "mtime": "2018-02-14T12:24:12.051Z",
       "ctime": "2018-02-14T12:24:12.051Z",
       "birthtime": "2018-02-14T12:24:12.051Z"
@@ -1956,6 +1958,358 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eed2c693104c3acb6813b3502c1af254",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md",
+      "relativePath": "product/incineratingtoilets.md",
+      "extension": "md",
+      "size": 4202,
+      "prettySize": "4.2 kB",
+      "modifiedTime": "2018-02-19T05:52:14.331Z",
+      "accessTime": "2018-02-19T04:44:01.543Z",
+      "changeTime": "2018-02-19T05:52:14.331Z",
+      "birthTime": "2018-02-19T05:52:14.331Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/product",
+      "base": "incineratingtoilets.md",
+      "ext": ".md",
+      "name": "incineratingtoilets",
+      "relativeDirectory": "product",
+      "dev": 2067,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2155939076,
+      "blocks": 16,
+      "atimeMs": 1519015441543.0874,
+      "mtimeMs": 1519019534331.487,
+      "ctimeMs": 1519019534331.487,
+      "birthtimeMs": 1519019534331.487,
+      "atime": "2018-02-19T04:44:01.543Z",
+      "mtime": "2018-02-19T05:52:14.331Z",
+      "ctime": "2018-02-19T05:52:14.331Z",
+      "birthtime": "2018-02-19T05:52:14.331Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: product-page\npath: /products/incineratingtoilets\ntitle: 'Incinerating Toilets'\nimage: /img/jumbotron.jpg\nheading: General Information\ndescription: General information about incinerating toilets\ncategory: Waterless Toilets\ntype: Incinerating\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "6ecaab75a3dc5cc163d15acb0fca3ccf",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Incinerating Toilets",
+        "templateKey": "product-page",
+        "path": "/products/incineratingtoilets",
+        "image": "/img/jumbotron.jpg",
+        "heading": "General Information",
+        "description": "General information about incinerating toilets",
+        "category": "Waterless Toilets",
+        "type": "Incinerating",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8b16de71ef491adfb1c2fa8ccf530aac",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle",
+      "relativePath": "lifestyle",
+      "extension": "",
+      "size": 26,
+      "prettySize": "26 B",
+      "modifiedTime": "2018-02-19T22:29:48.666Z",
+      "accessTime": "2018-02-19T22:29:48.670Z",
+      "changeTime": "2018-02-19T22:29:48.666Z",
+      "birthTime": "2018-02-19T22:29:48.666Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages",
+      "base": "lifestyle",
+      "ext": "",
+      "name": "lifestyle",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294706,
+      "blocks": 0,
+      "atimeMs": 1519079388669.981,
+      "mtimeMs": 1519079388665.981,
+      "ctimeMs": 1519079388665.981,
+      "birthtimeMs": 1519079388665.981,
+      "atime": "2018-02-19T22:29:48.670Z",
+      "mtime": "2018-02-19T22:29:48.666Z",
+      "ctime": "2018-02-19T22:29:48.666Z",
+      "birthtime": "2018-02-19T22:29:48.666Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file",
+      "children": [
+        "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "49e098fb976f123d0f262fdcc945d24a",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md",
+      "relativePath": "lifestyle/lifestyle.md",
+      "extension": "md",
+      "size": 4116,
+      "prettySize": "4.12 kB",
+      "modifiedTime": "2018-02-19T22:32:11.995Z",
+      "accessTime": "2018-02-19T22:31:42.835Z",
+      "changeTime": "2018-02-19T22:32:11.995Z",
+      "birthTime": "2018-02-19T22:32:11.995Z",
+      "root": "/",
+      "dir": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle",
+      "base": "lifestyle.md",
+      "ext": ".md",
+      "name": "lifestyle",
+      "relativeDirectory": "lifestyle",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 100,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3229294707,
+      "blocks": 16,
+      "atimeMs": 1519079502835.074,
+      "mtimeMs": 1519079531995.3518,
+      "ctimeMs": 1519079531995.3518,
+      "birthtimeMs": 1519079531995.3518,
+      "atime": "2018-02-19T22:31:42.835Z",
+      "mtime": "2018-02-19T22:32:11.995Z",
+      "ctime": "2018-02-19T22:32:11.995Z",
+      "birthtime": "2018-02-19T22:32:11.995Z"
+    },
+    "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: lifestyle-page\npath: /lifestyle\ntitle: Green Lifestyle\nimage: /img/jumbotron.jpg\nheading: Green Lifestyle\ndescription: Kblah blah\ncategory: Lifestyle Home\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "contentDigest": "ac1113d7cf9b023eeceacc75bf079dca",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Green Lifestyle",
+        "templateKey": "lifestyle-page",
+        "path": "/lifestyle",
+        "image": "/img/jumbotron.jpg",
+        "heading": "Green Lifestyle",
+        "description": "Kblah blah",
+        "category": "Lifestyle Home",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file",
+        "parent": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md"
+    },
     "SitePage /about": {
       "layout": "index",
       "jsonName": "about.json",
@@ -1966,7 +2320,7 @@
       "context": {
         "path": "/about"
       },
-      "updatedAt": 1518724586356,
+      "updatedAt": 1519079532121,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/about-page.js",
@@ -1975,7 +2329,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2cc18defe25ddb3f4c00235b47e28234",
+        "contentDigest": "2630f6e703866c3f46678948b7ccf991",
         "owner": "internal-data-bridge"
       }
     },
@@ -1989,7 +2343,7 @@
       "context": {
         "path": "/products"
       },
-      "updatedAt": 1518724586357,
+      "updatedAt": 1519079532122,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -1998,7 +2352,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b0fdb8362918861087999cdee4a3263",
+        "contentDigest": "ee099f739abc023fce2e4a9052127374",
         "owner": "internal-data-bridge"
       }
     },
@@ -2012,7 +2366,7 @@
       "context": {
         "path": "/products/waterlesstoilets"
       },
-      "updatedAt": 1518724586357,
+      "updatedAt": 1519079532122,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
@@ -2021,7 +2375,53 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c2bfd2b4eb85ea6ba797c65534f28891",
+        "contentDigest": "c20b5582341d2763e5447237a9bd2d5a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/incineratingtoilets": {
+      "layout": "index",
+      "jsonName": "products-incineratingtoilets.json",
+      "internalComponentName": "ComponentProductsIncineratingtoilets",
+      "path": "/products/incineratingtoilets",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "path": "/products/incineratingtoilets"
+      },
+      "updatedAt": 1519079532123,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/product-page.js",
+      "id": "SitePage /products/incineratingtoilets",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "54a35b70d750c1e82c90d1c45c85edd0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /lifestyle": {
+      "layout": "index",
+      "jsonName": "lifestyle.json",
+      "internalComponentName": "ComponentLifestyle",
+      "path": "/lifestyle",
+      "component": "/home/Valimr/Sites/enviroalternatives/src/templates/lifestyle-page.js",
+      "componentChunkName": "component---src-templates-lifestyle-page-js",
+      "context": {
+        "path": "/lifestyle"
+      },
+      "updatedAt": 1519079532123,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/lifestyle-page.js",
+      "id": "SitePage /lifestyle",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f095d99a1640d548e5f03e5ca97710d3",
         "owner": "internal-data-bridge"
       }
     },
@@ -2035,7 +2435,7 @@
       "context": {
         "path": "/jamaica-blue"
       },
-      "updatedAt": 1518724586358,
+      "updatedAt": 1519079532123,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2044,7 +2444,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a8b8b71942b41287359c7a40c2f08b38",
+        "contentDigest": "1bbbecd7f93a228dcd7c92547721d713",
         "owner": "internal-data-bridge"
       }
     },
@@ -2058,7 +2458,7 @@
       "context": {
         "path": "/brewing-chemex"
       },
-      "updatedAt": 1518724586358,
+      "updatedAt": 1519079532124,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2067,7 +2467,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "605eaf041c8b17ef0dc3402402df5cf0",
+        "contentDigest": "5600df9e572faab30e6f03291f4f18d7",
         "owner": "internal-data-bridge"
       }
     },
@@ -2081,7 +2481,7 @@
       "context": {
         "path": "making-sense"
       },
-      "updatedAt": 1518724586358,
+      "updatedAt": 1519079532124,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/templates/blog-post.js",
@@ -2090,7 +2490,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "70c0b3be270e251814670e35264a4ae5",
+        "contentDigest": "aa546d470e30c0de4477c8ef4bdcf381",
         "owner": "internal-data-bridge"
       }
     },
@@ -2102,7 +2502,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518724586369,
+      "updatedAt": 1519079444226,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2111,7 +2511,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c5f9009b2ec6b819549bc4d1e1d0218a",
+        "contentDigest": "55428dea89c0109d5e1cc9e24080d661",
         "owner": "internal-data-bridge"
       }
     },
@@ -2123,7 +2523,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1518724586370,
+      "updatedAt": 1519079444226,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/index.js",
@@ -2132,7 +2532,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "914b707bd97fc86ae3e697327aadb0f9",
+        "contentDigest": "5e850ab028abd19d6cb753ddae9d1781",
         "owner": "internal-data-bridge"
       }
     },
@@ -2144,7 +2544,7 @@
       "component": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1518724586371,
+      "updatedAt": 1519079444228,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/Valimr/Sites/enviroalternatives/src/pages/404.js",
@@ -2153,7 +2553,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c2cfb9f7a665b197238fd02a3421682",
+        "contentDigest": "e04af13a52f0d23cf57b9150e67c16db",
         "owner": "internal-data-bridge"
       }
     }
@@ -2184,6 +2584,12 @@
       ],
       "Site": [
         "/"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/product/incineratingtoilets.md absPath of file >>> MarkdownRemark": [
+        "/products/incineratingtoilets"
+      ],
+      "/home/Valimr/Sites/enviroalternatives/src/pages/lifestyle/lifestyle.md absPath of file >>> MarkdownRemark": [
+        "/lifestyle"
       ]
     },
     "connections": {
@@ -2192,7 +2598,9 @@
       ],
       "MarkdownRemark": [
         "/products",
-        "/products/waterlesstoilets"
+        "/products/waterlesstoilets",
+        "/products/incineratingtoilets",
+        "/lifestyle"
       ]
     }
   }

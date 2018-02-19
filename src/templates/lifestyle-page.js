@@ -5,7 +5,7 @@ import Testimonials from '../components/Testimonials';
 import Pricing from '../components/Pricing';
 import Sidebar from '../components/Sidebar';
 
-export const ProductPageTemplate = ({
+export const LifestylePageTemplate = ({
   image, title, heading, description, intro, main, testimonials, fullImage, pricing, navItems
 }) => (
   <section className="section section--gradient">
@@ -91,7 +91,7 @@ export default ({ data }) => {
   const { allMarkdownRemark: navItems } = data;
 
   return (
-    <ProductPageTemplate
+    <LifestylePageTemplate
       image={frontmatter.image}
       title={frontmatter.title}
       heading={frontmatter.heading}
@@ -106,9 +106,9 @@ export default ({ data }) => {
   );
 };
 
-export const productPageQuery = graphql`
-  query ProductPage($path: String!) {
-    allMarkdownRemark(filter:{frontmatter:{path:{regex: "/products/"}}}) {
+export const lifestylePageQuery = graphql`
+  query LifestylePage($path: String!) {
+    allMarkdownRemark(filter:{frontmatter:{path:{regex: "/lifestyle/"}}}) {
       totalCount
       edges {
         node {

@@ -28,6 +28,20 @@
         "path": "/products/waterlesstoilets"
     },
     {
+        "componentChunkName": "component---src-templates-product-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-incineratingtoilets.json",
+        "path": "/products/incineratingtoilets"
+    },
+    {
+        "componentChunkName": "component---src-templates-lifestyle-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lifestyle.json",
+        "path": "/lifestyle"
+    },
+    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
