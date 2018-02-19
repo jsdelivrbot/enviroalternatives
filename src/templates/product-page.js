@@ -6,13 +6,13 @@ import Pricing from '../components/Pricing';
 import Sidebar from '../components/Sidebar';
 
 export const ProductPageTemplate = ({
-  image, title, heading, description, intro, main, testimonials, fullImage, pricing, navItems
+  image, title, heading, description, path, intro, main, testimonials, fullImage, pricing, navItems
 }) => (
   <section className="section section--gradient">
     <div className="container">
       <div className="columns">
         <div className="column is-3">
-          <Sidebar items={navItems.edges} />
+          <Sidebar items={navItems.edges} path={path}/>
         </div>
         <div className="column is-9">
           <div className="section">
@@ -94,6 +94,7 @@ export default ({ data }) => {
     <ProductPageTemplate
       image={frontmatter.image}
       title={frontmatter.title}
+      path={frontmatter.path}
       heading={frontmatter.heading}
       description={frontmatter.description}
       intro={frontmatter.intro}

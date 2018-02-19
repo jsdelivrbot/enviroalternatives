@@ -37,7 +37,7 @@ const menu = [
 class Sidebar extends React.Component {
     constructor(props) {
       super(props);
-      this.state = {activeLinkTo: ""};
+      this.state = {activeLinkTo: props.path};
 
       this.buildTree = this.buildTree.bind(this);
     }
@@ -77,7 +77,7 @@ class Sidebar extends React.Component {
         <div>
           <MetisMenu
             content={this.buildTree(items)}
-            activeLinkFromLocation
+            activeLinkTo={this.state.activeLinkTo}
           />
         </div>
         )
