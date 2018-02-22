@@ -74,7 +74,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       const pagePath = node.frontmatter.path;
-      
+
       createPage({
         path: pagePath,
         component: path.resolve(
@@ -86,5 +86,21 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         }
       });
     });
+  });
+};
+
+exports.onCreatePage = async ({ page, boundActionCreators }) => {
+  const { createPage } = boundActionCreators;
+
+  return new Promise((resolve, reject) => {
+    if (page.path.match(/^\//)) {
+      // It's assumed that `landingPage.js` exists in the `/layouts/` directory
+      page.layout = "landing";
+
+      // Update the page.
+      createPage(page);
+    }
+
+    resolve();
   });
 };

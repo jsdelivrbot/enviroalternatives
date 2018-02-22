@@ -1,8 +1,8 @@
 [
     {
         "componentChunkName": "component---cache-dev-404-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "layout": "layout---landing",
+        "layoutComponentChunkName": "component---src-layouts-landing-js",
         "jsonName": "dev-404-page.json",
         "path": "/dev-404-page/"
     },
@@ -12,6 +12,27 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "about.json",
         "path": "/about"
+    },
+    {
+        "componentChunkName": "component---src-templates-lifestyle-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lifestyle-health.json",
+        "path": "/lifestyle/health"
+    },
+    {
+        "componentChunkName": "component---src-templates-lifestyle-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lifestyle.json",
+        "path": "/lifestyle"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-incineratingtoilets.json",
+        "path": "/products/incineratingtoilets"
     },
     {
         "componentChunkName": "component---src-templates-product-page-js",
@@ -28,25 +49,11 @@
         "path": "/products/waterlesstoilets"
     },
     {
-        "componentChunkName": "component---src-templates-product-page-js",
+        "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "products-incineratingtoilets.json",
-        "path": "/products/incineratingtoilets"
-    },
-    {
-        "componentChunkName": "component---src-templates-lifestyle-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "lifestyle.json",
-        "path": "/lifestyle"
-    },
-    {
-        "componentChunkName": "component---src-templates-lifestyle-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "lifestyle-health.json",
-        "path": "/lifestyle/health"
+        "jsonName": "brewing-chemex.json",
+        "path": "/brewing-chemex"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -59,34 +66,20 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "brewing-chemex.json",
-        "path": "/brewing-chemex"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "making-sense.json",
         "path": "/making-sense"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "layout": "layout---landing",
+        "layoutComponentChunkName": "component---src-layouts-landing-js",
         "jsonName": "404.json",
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-index-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "index.json",
-        "path": "/"
-    },
-    {
         "componentChunkName": "component---src-pages-404-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "layout": "layout---landing",
+        "layoutComponentChunkName": "component---src-layouts-landing-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
     }

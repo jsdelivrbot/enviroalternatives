@@ -72,4 +72,30 @@ Template.propTypes = {
   children: PropTypes.func,
 }
 
-export default Template
+export default Template;
+
+export const pageQuery = graphql`
+  query IndexQuery {
+    allMarkdownRemark {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            path
+            category
+            type
+          }
+        }
+      }
+    }
+    site {
+      siteMetadata {
+        title
+        email
+        phone
+      }
+    }
+  }
+`
