@@ -42,6 +42,13 @@
         "path": "/lifestyle"
     },
     {
+        "componentChunkName": "component---src-templates-lifestyle-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lifestyle-health.json",
+        "path": "/lifestyle/health"
+    },
+    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",

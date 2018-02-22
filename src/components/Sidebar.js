@@ -4,40 +4,10 @@ import classNames from 'classnames'
 import Link from "gatsby-link"
 import MetisMenu from 'react-metismenu';
 
-const menu = [
-  {
-    icon: 'dashboard',
-    label: 'Menu 1',
-    to: '/products/waterlesstoilets',
-  },
-  {
-    icon: 'bell',
-    label: 'Menu 2',
-    to: 'menu-2',
-  },
-  {
-    icon: 'bolt',
-    label: 'waterlesstoilets',
-    content: [
-      {
-        icon: 'bolt',
-        label: 'Sub Menu',
-        to: '/products',
-      },
-    ],
-  },
-  {
-    icon: 'external-link',
-    label: 'External Link',
-    externalLink: true,
-    to: 'https://www.google.com',
-  },
-];
-
 class Sidebar extends React.Component {
     constructor(props) {
       super(props);
-      this.state = {activeLinkTo: props.path};
+      this.state = {activeLinkTo: ""};
 
       this.buildTree = this.buildTree.bind(this);
     }
@@ -70,13 +40,12 @@ class Sidebar extends React.Component {
 
       return menu;
     }
-    render(props) {
-        const { items, label } = this.props;
+    render() {
 
     return (
         <div>
           <MetisMenu
-            content={this.buildTree(items)}
+            content={this.buildTree(this.props.items)}
             activeLinkTo={this.state.activeLinkTo}
           />
         </div>
@@ -85,4 +54,4 @@ class Sidebar extends React.Component {
 }
 
 
-export default Sidebar
+export default Sidebar;

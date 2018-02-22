@@ -8,17 +8,7 @@ import Sidebar from '../components/Sidebar';
 export const ProductPageTemplate = ({
   image, title, heading, description, path, intro, main, testimonials, fullImage, pricing, navItems
 }) => (
-  <section className="section section--gradient">
-    <div className="container">
-      <div className="columns">
-        <div className="column is-3">
-          <Sidebar items={navItems.edges} path={path}/>
-        </div>
-        <div className="column is-9">
-          <div className="section">
-            <div className="columns">
 
-              <div className="column is-9">
                 <div className="content">
 
                   <div className="columns">
@@ -76,19 +66,10 @@ export const ProductPageTemplate = ({
                   <p className="is-size-5">{pricing.description}</p>
                   <Pricing data={pricing.plans} />
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
 );
 
 export default ({ data }) => {
   const { frontmatter } = data.markdownRemark;
-  const { allMarkdownRemark: navItems } = data;
 
   return (
     <ProductPageTemplate
@@ -102,27 +83,12 @@ export default ({ data }) => {
       testimonials={frontmatter.testimonials}
       fullImage={frontmatter.full_image}
       pricing={frontmatter.pricing}
-      navItems={navItems}
     />
   );
 };
 
 export const productPageQuery = graphql`
   query ProductPage($path: String!) {
-    allMarkdownRemark(filter:{frontmatter:{path:{regex: "/products/"}}}) {
-      totalCount
-      edges {
-        node {
-          id
-          frontmatter {
-            title
-            path
-            category
-            type
-          }
-        }
-      }
-    }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
         title

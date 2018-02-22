@@ -30,6 +30,8 @@ exports.json = {
   "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
   "lifestyle.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/lifestyle.json"),
   "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
+  "lifestyle-health.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/lifestyle-health.json"),
+  "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
   "jamaica-blue.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/jamaica-blue.json"),
   "layout-index.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/layout-index.json"),
   "brewing-chemex.json": require("/home/Valimr/Sites/enviroalternatives/.cache/json/brewing-chemex.json"),
